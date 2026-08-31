@@ -7,6 +7,7 @@ const masteryLabels: Record<Mastery, string> = { new: '未自评', mastered: '�
 
 export function QuestionCard({ question, index }: { question: CaseQuestion; index?: number }) {
   const [revealed, setRevealed] = useState(false)
+  const [showAllSubquestions, setShowAllSubquestions] = useState(false)
   const mastery = useStudyStore((state) => state.mastery[question.id] ?? 'new')
   const bookmarked = useStudyStore((state) => Boolean(state.bookmarks[question.id]))
   const setMastery = useStudyStore((state) => state.setMastery)
@@ -28,7 +29,7 @@ export function QuestionCard({ question, index }: { question: CaseQuestion; inde
       </div>
       <div className="question-background"><RichText text={question.background} /></div>
       <div className="subquestion-list">
-        {question.subquestions.map((item, itemIndex) => (
+        {question.subquestions.slice(0, showAllSubquestions ? undefined : 12).map((item, itemIndex) => (
           <section className="subquestion" key={item.id}>
             <QuestionDraft questionId={question.id} subQuestionId={item.id} />
             <h3><span>{itemIndex + 1}</span><RichText text={item.prompt} /></h3>
@@ -41,6 +42,7 @@ export function QuestionCard({ question, index }: { question: CaseQuestion; inde
             </div>}
           </section>
         ))}
+        {question.subquestions.length > 12 && !showAllSubquestions && <button className="subquestion-more" type="button" onClick={() => setShowAllSubquestions(true)}>显示其余 {question.subquestions.length - 12} 个小问</button>}
       </div>
       <div className="question-actions">
         <button className="button button-primary small" onClick={() => setRevealed((value) => !value)}>{revealed ? '收起解析' : '展开答案与解析'}</button>

@@ -12,6 +12,22 @@ button, a { -webkit-tap-highlight-color: transparent; }
 
 .site-shell { min-height: 100vh; }
 
+.auth-page { display: grid; min-height: 100vh; place-items: center; padding: 1.5rem; background: radial-gradient(circle at 20% 10%, color-mix(in srgb, var(--teal-pale) 65%, transparent), transparent 48%), var(--paper); }
+.auth-card { width: min(100%, 430px); padding: clamp(2rem, 7vw, 3.4rem); border: 1px solid var(--border); border-radius: var(--radius-lg); background: var(--surface); box-shadow: var(--shadow); }
+.auth-mark { display: grid; place-items: center; width: 2.8rem; height: 2.8rem; margin-bottom: 1.7rem; border-radius: 10px; color: #f5f2ea; background: var(--teal); font-weight: 900; }
+.auth-card h1 { margin: 0.35rem 0 0.9rem; font-family: Georgia, "Songti SC", serif; font-size: clamp(2rem, 7vw, 3.2rem); font-weight: 500; line-height: 1.1; }
+.auth-copy { margin: 0 0 1.8rem; color: var(--ink-soft); line-height: 1.75; }
+.auth-card form { display: grid; gap: 0.55rem; }
+.auth-card label { color: var(--ink-soft); font-size: 0.8rem; font-weight: 800; }
+.auth-card input { width: 100%; padding: 0.8rem 0.85rem; border: 1px solid var(--border); border-radius: var(--radius-sm); color: var(--ink); background: var(--paper); font: inherit; }
+.auth-card input:focus { border-color: var(--teal); outline: 3px solid color-mix(in srgb, var(--teal) 20%, transparent); outline-offset: 1px; }
+.auth-submit { width: 100%; margin-top: 0.55rem; border: 0; cursor: pointer; }
+.auth-submit:disabled { cursor: not-allowed; opacity: 0.55; }
+.auth-error { margin: 0.45rem 0 0; color: var(--orange); font-size: 0.82rem; }
+.auth-note { margin: 1.35rem 0 0; color: var(--ink-soft); font-size: 0.74rem; line-height: 1.6; }
+.auth-logout { padding: 0; border: 0; color: inherit; background: transparent; font: inherit; font-size: inherit; cursor: pointer; }
+.auth-logout:hover { color: var(--orange); }
+
 .site-header {
   display: flex;
   align-items: center;
@@ -133,6 +149,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .rich-text th, .rich-text td { padding: 0.45rem 0.6rem; border: 1px solid var(--border); vertical-align: top; text-align: left; line-height: 1.5; }
 .rich-text th { color: var(--teal-deep); background: color-mix(in srgb, var(--teal-pale) 60%, var(--surface)); font-weight: 800; }
 .subquestion-list { display: grid; gap: 1.1rem; margin-top: 1.35rem; }
+.subquestion-more { justify-self: start; padding: 0.5rem 0.75rem; border: 1px dashed var(--teal); border-radius: var(--radius-sm); color: var(--teal-deep); background: transparent; font: inherit; font-size: 0.78rem; font-weight: 800; cursor: pointer; }
+.subquestion-more:hover { background: var(--teal-pale); }
 .subquestion { padding-top: 1.1rem; border-top: 1px solid var(--border); }
 .subquestion h3 { display: flex; align-items: start; gap: 0.65rem; margin: 0 0 0.8rem; font-size: 0.98rem; font-weight: 700; line-height: 1.7; }
 .subquestion h3 > span { display: grid; flex: 0 0 auto; place-items: center; width: 1.5rem; height: 1.5rem; border-radius: 50%; color: #f5f2ea; background: var(--teal); font-size: 0.75rem; }

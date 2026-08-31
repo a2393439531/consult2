@@ -1,6 +1,17 @@
-import { expect, test } from '@playwright/test'
+import { expect, test, type Page } from '@playwright/test'
+
+async function openAuthenticated(page: Page) {
+  await page.addInitScript(() => sessionStorage.setItem('consult2-authenticated-v1', 'granted'))
+}
+
+test('requires an access code before opening the study site', async ({ page }) => {
+  await page.goto('/')
+  await expect(page.getByRole('heading', { name: '输入访问口令' })).toBeVisible()
+  await expect(page.getByRole('button', { name: '进入复习站' })).toBeDisabled()
+})
 
 test('learner can open a chapter and reveal a parsed answer', async ({ page }) => {
+  await openAuthenticated(page)
   await page.goto('/')
   await expect(page.getByRole('heading', { name: '今天，从一个章节开始。' })).toBeVisible()
   await page.getByRole('link', { name: '打开题卡' }).click()
@@ -12,6 +23,7 @@ test('learner can open a chapter and reveal a parsed answer', async ({ page }) =
 })
 
 test('learner can start a mock and see the timer', async ({ page }) => {
+  await openAuthenticated(page)
   await page.goto('#/exams')
   const exam = page.locator('.exam-card').first()
   await expect(exam).toBeVisible()

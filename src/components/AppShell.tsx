@@ -1,6 +1,8 @@
 import { Link, NavLink } from 'react-router-dom'
+import { useAuth } from '../auth/AuthGate'
 
 export function AppShell({ children }: { children: React.ReactNode }) {
+  const { logout } = useAuth()
   return (
     <div className="site-shell">
       <header className="site-header">
@@ -16,6 +18,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           <NavLink to="/exams">整卷模考</NavLink>
           <NavLink to="/review">待复习</NavLink>
           <NavLink to="/search">搜索</NavLink>
+          <button className="auth-logout" type="button" onClick={logout}>退出</button>
         </nav>
       </header>
       <main className="page-container">{children}</main>
