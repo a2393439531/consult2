@@ -3,7 +3,10 @@ import { MemoryRouter } from 'react-router-dom'
 import { vi } from 'vitest'
 import { ChapterPage } from './ChapterPage'
 
-vi.mock('../data/manifest', () => ({ loadChapter: vi.fn().mockResolvedValue({ id: '1', number: 1, title: '现代工程咨询方法', questions: [] }) }))
+vi.mock('../data/manifest', () => ({
+  loadChapter: vi.fn().mockResolvedValue({ id: '1', number: 1, title: '现代工程咨询方法', questions: [] }),
+  loadManifest: vi.fn().mockResolvedValue({ chapters: [{ id: '1', number: 1, title: '现代工程咨询方法', count: 0 }] }),
+}))
 
 test('renders chapter context and empty state', async () => {
   render(<MemoryRouter initialEntries={['/chapters/01']}><ChapterPage /></MemoryRouter>)

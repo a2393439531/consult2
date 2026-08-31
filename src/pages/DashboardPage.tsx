@@ -1,19 +1,17 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { loadChapter, loadManifest } from '../data/manifest'
-import type { CaseQuestion, ContentManifest } from '../domain/types'
+import { loadManifest } from '../data/manifest'
+import type { ContentManifest } from '../domain/types'
 import { useStudyStore } from '../store/studyStore'
 import { EmptyState } from '../components/EmptyState'
 import { ProgressRing } from '../components/ProgressRing'
 
 export function DashboardPage() {
   const [manifest, setManifest] = useState<ContentManifest>()
-  const [questions, setQuestions] = useState<CaseQuestion[]>([])
   const [error, setError] = useState<string>()
   const mastery = useStudyStore((state) => state.mastery)
   const lastLocation = useStudyStore((state) => state.lastLocation)
   useEffect(() => { loadManifest().then(setManifest).catch((reason: Error) => setError(reason.message)) }, [])
-  useEffect(() => { if (manifest) Promise.all(manifest.chapters.map((chapter) => loadChapter(chapter.id))).then((chapters) => setQuestions(chapters.flatMap((chapter) => chapter.questions))) }, [manifest])
   const masteredCount = useMemo(() => Object.values(mastery).filter((value) => value === 'mastered').length, [mastery])
 
   if (error) return <EmptyState title="题库暂时无法加载" copy={`${error} 请刷新页面重试。`} />
@@ -29,7 +27,7 @@ export function DashboardPage() {
       <div className="chapter-grid">
         {manifest.chapters.map((chapter) => {
           const count = chapter.count || 0
-          const chapterQuestionIds = new Set(questions.filter((question) => question.chapter_id === chapter.id).map((question) => question.id))
+          const chapterQuestionIds = new Set(chapter.question_ids ?? [])
           const mastered = Object.entries(mastery).filter(([id, value]) => value === 'mastered' && chapterQuestionIds.has(id)).length
           const progress = count ? Math.round((mastered / count) * 100) : 0
           return <Link className="chapter-card" to={`/chapters/${chapter.id.padStart(2, '0')}`} key={chapter.id}><div className="chapter-card-top"><span className="chapter-number">{String(chapter.number).padStart(2, '0')}</span><ProgressRing value={progress} label={chapter.title} /></div><h3>{chapter.title}</h3><p>{count} 个案例题组 <span>·</span> {progress ? `${progress}% 已掌握` : '尚未开始'}</p><span className="chapter-arrow">↗</span></Link>

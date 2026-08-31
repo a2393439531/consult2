@@ -5,79 +5,1132 @@
       "id": "1",
       "number": 1,
       "title": "现代工程咨询方法",
-      "count": 9
+      "count": 50,
+      "question_ids": [
+        "case-22d3781312b3-001",
+        "case-872ff5a3f1ad-001",
+        "case-c5134749c994-001",
+        "case-0cca68d526a4-001",
+        "case-cb324d1a437b-001",
+        "case-801295a8a2bb-001",
+        "case-34baaa109a24-001",
+        "case-1339130b8b66-001",
+        "case-6fbcb8b33496-001",
+        "case-ab4244a204fc-001",
+        "case-859d7f0d6724-001",
+        "case-859d7f0d6724-002",
+        "case-859d7f0d6724-003",
+        "case-ce46c71b7bd2-001",
+        "case-f106c10d4f73-001",
+        "case-63b47bffff32-001",
+        "case-7ec9bbfa75fb-001",
+        "case-68c639adad47-001",
+        "case-ad1a81496056-001",
+        "case-d4a80895a2bc-001",
+        "case-e6a42250b511-005",
+        "case-f7ecd9a63180-001",
+        "case-4236d37b572c-001",
+        "case-c6dfd249bb8b-001",
+        "case-64c8aea7c6da-001",
+        "case-4c698b390e62-001",
+        "case-887f52db90af-001",
+        "case-2f0e61bff996-001",
+        "case-e3e38d598f7e-001",
+        "case-5fbcbbe3f6d9-001",
+        "case-977ee93a61c7-001",
+        "case-0260dc54c31c-001",
+        "case-90cff8ecc457-001",
+        "case-9bba4393a738-001",
+        "case-8e97e5cd0880-001",
+        "case-8e97e5cd0880-002",
+        "case-8e97e5cd0880-003",
+        "case-8e97e5cd0880-004",
+        "case-8e97e5cd0880-005",
+        "case-9f545f02b752-001",
+        "case-4004450e63b8-001",
+        "case-6fb4ff73d2d1-001",
+        "case-bc71ace4079f-001",
+        "case-9d6547207562-001",
+        "case-c6693dcee0f3-001",
+        "case-ed7f414a3626-001",
+        "case-74643feaccbf-001",
+        "case-923fcc50d809-001",
+        "case-167bf2a5923a-001",
+        "case-22ce3b07eaeb-001"
+      ]
     },
     {
       "id": "2",
       "number": 2,
       "title": "规划咨询的主要理论与方法",
-      "count": 11
+      "count": 95,
+      "question_ids": [
+        "case-e71c7a678f1a-001",
+        "case-6d3852f6ab3b-001",
+        "case-ff4d94c5b6fd-001",
+        "case-f96729eb9656-001",
+        "case-cefeba0f051c-001",
+        "case-fe287d54e6c7-001",
+        "case-52a448c288d0-001",
+        "case-d1b368ae5216-001",
+        "case-51d7658a36ad-001",
+        "case-c1209ff15a36-001",
+        "case-825b4cd967d5-001",
+        "case-c89d099ebce5-001",
+        "case-4b0ad31dfe29-001",
+        "case-11670deea85e-001",
+        "case-4f96f1eb91e7-001",
+        "case-23f044b3be70-001",
+        "case-25d7bae828a3-001",
+        "case-2583ec8f989a-001",
+        "case-123649fe813f-001",
+        "case-6d735f0b92ac-001",
+        "case-91672aca067b-001",
+        "case-541025f21e3e-001",
+        "case-cd34b7deecbc-001",
+        "case-a5ec5d9a4ae2-001",
+        "case-3b850cffbeef-001",
+        "case-3b850cffbeef-002",
+        "case-3b850cffbeef-003",
+        "case-3b850cffbeef-004",
+        "case-3b850cffbeef-005",
+        "case-3b850cffbeef-006",
+        "case-3b850cffbeef-007",
+        "case-3b850cffbeef-008",
+        "case-3b850cffbeef-009",
+        "case-3b850cffbeef-010",
+        "case-3b850cffbeef-011",
+        "case-3b850cffbeef-012",
+        "case-232d8a30e82f-001",
+        "case-232d8a30e82f-002",
+        "case-232d8a30e82f-003",
+        "case-232d8a30e82f-004",
+        "case-232d8a30e82f-005",
+        "case-232d8a30e82f-006",
+        "case-232d8a30e82f-010",
+        "case-232d8a30e82f-011",
+        "case-232d8a30e82f-012",
+        "case-9e0183b7146e-001",
+        "case-9e0183b7146e-002",
+        "case-9e0183b7146e-003",
+        "case-9e0183b7146e-004",
+        "case-9e0183b7146e-005",
+        "case-9e0183b7146e-006",
+        "case-9e0183b7146e-007",
+        "case-9e0183b7146e-008",
+        "case-9e0183b7146e-009",
+        "case-9e0183b7146e-010",
+        "case-9e0183b7146e-011",
+        "case-9e0183b7146e-012",
+        "case-9e0183b7146e-013",
+        "case-dd5f0bd2dcb6-001",
+        "case-dd5f0bd2dcb6-002",
+        "case-dd5f0bd2dcb6-003",
+        "case-dd5f0bd2dcb6-004",
+        "case-dd5f0bd2dcb6-006",
+        "case-dd5f0bd2dcb6-007",
+        "case-dd5f0bd2dcb6-008",
+        "case-dd5f0bd2dcb6-009",
+        "case-dd5f0bd2dcb6-010",
+        "case-dd5f0bd2dcb6-011",
+        "case-dd5f0bd2dcb6-012",
+        "case-9bd867511f2a-001",
+        "case-6ad6a05e913c-001",
+        "case-704348b0f266-001",
+        "case-abb535136996-001",
+        "case-3a1b4f2de0e9-001",
+        "case-b386505886ad-001",
+        "case-ec2aa07284f0-001",
+        "case-69d12c22d61a-001",
+        "case-ddeb855661d4-001",
+        "case-cf5787e4a8a4-001",
+        "case-913d62e2440d-001",
+        "case-d532f1ba60a4-001",
+        "case-96f93500c1d1-001",
+        "case-f62f2b1860ff-001",
+        "case-f62f2b1860ff-002",
+        "case-f62f2b1860ff-003",
+        "case-f62f2b1860ff-004",
+        "case-62315b6fbd6d-001",
+        "case-44fb61e88f99-001",
+        "case-447703209b39-001",
+        "case-29aa680c37a9-001",
+        "case-7c0c8ea0fc22-001",
+        "case-e27144f9096b-001",
+        "case-5fc12380c0a7-001",
+        "case-94e8bc98bb4d-001",
+        "case-a83ad4e3c5c4-001"
+      ]
     },
     {
       "id": "3",
       "number": 3,
       "title": "能源资源环境分析",
-      "count": 11
+      "count": 43,
+      "question_ids": [
+        "case-e71c7a678f1a-004",
+        "case-db23bf1b9431-001",
+        "case-349249bde901-001",
+        "case-fa10c791e952-001",
+        "case-efb46db5d856-001",
+        "case-7be88c2151ae-001",
+        "case-3e037d734d73-001",
+        "case-73289a1a6098-001",
+        "case-3f4a556edd31-001",
+        "case-a7e636e7c631-001",
+        "case-6032bcc57472-001",
+        "case-39b8f58b704b-001",
+        "case-859d7f0d6724-004",
+        "case-e6d50958601e-001",
+        "case-1b820196bbb2-001",
+        "case-e48a44db3bba-001",
+        "case-d7134aa667d0-001",
+        "case-efc1df79a831-001",
+        "case-d3c1ad7ee7e9-001",
+        "case-4d0b7406788e-001",
+        "case-095216df8aa1-001",
+        "case-cec5229b73df-001",
+        "case-2e4500a2732c-001",
+        "case-a2b1f6d79bb5-001",
+        "case-5034fca08599-001",
+        "case-b33732d3cc86-001",
+        "case-6edd306f4d1c-001",
+        "case-44836e20284d-001",
+        "case-15e77c2ec3a6-001",
+        "case-8f4c3b2763a2-001",
+        "case-66431fe60c85-001",
+        "case-6858b2fd592f-001",
+        "case-b84359ca833b-001",
+        "case-b84359ca833b-002",
+        "case-b84359ca833b-003",
+        "case-98f778542009-001",
+        "case-02d12bc7dbec-001",
+        "case-53541e0b7a66-001",
+        "case-6c56a842ce6a-001",
+        "case-cb92af99af50-001",
+        "case-1427db8ed5ae-001",
+        "case-6e4aed0a1757-001",
+        "case-16594dae1036-001"
+      ]
     },
     {
       "id": "4",
       "number": 4,
       "title": "战略分析",
-      "count": 5
+      "count": 29,
+      "question_ids": [
+        "case-0dc9ef923b50-001",
+        "case-830ed6ce26ab-001",
+        "case-2874b763b009-001",
+        "case-c3952f374e22-001",
+        "case-c239e04f6b34-001",
+        "case-639202dbb8de-001",
+        "case-859d7f0d6724-005",
+        "case-290d689fd6a4-001",
+        "case-1e0d594f0ef1-001",
+        "case-ade80e026f28-001",
+        "case-136b46283179-001",
+        "case-106658ab1416-001",
+        "case-fe47ce3e6bc8-001",
+        "case-cc385c770696-001",
+        "case-3acdaac1b2fb-001",
+        "case-4001d4d8cc5d-001",
+        "case-1d8398cf2041-001",
+        "case-5f79424c394d-001",
+        "case-4dfd770a7da1-001",
+        "case-ccb55862cf82-001",
+        "case-0d8ef2abb897-001",
+        "case-17211488a3f3-001",
+        "case-ea673a0c3675-001",
+        "case-b01b014d0cdc-001",
+        "case-df0cc04c21ee-001",
+        "case-df0cc04c21ee-002",
+        "case-be05bbd46597-001",
+        "case-5be4b504b2a0-001",
+        "case-aceed1c4a8b7-001"
+      ]
     },
     {
       "id": "5",
       "number": 5,
       "title": "市场分析",
-      "count": 15
+      "count": 49,
+      "question_ids": [
+        "case-e71c7a678f1a-002",
+        "case-e71c7a678f1a-005",
+        "case-91e49dfcbfec-001",
+        "case-56f2a395ed33-001",
+        "case-f73fc36de357-001",
+        "case-5f4a9128e4b6-001",
+        "case-de195579107e-001",
+        "case-6d8f0d103075-001",
+        "case-a5c22bcf8d40-001",
+        "case-8d5da0e8571b-001",
+        "case-4e74a3f1b9f3-001",
+        "case-c72e993199d7-001",
+        "case-7f771567b612-001",
+        "case-afcbe666aad1-001",
+        "case-10bf5dad47a4-001",
+        "case-48efaaf38ce4-001",
+        "case-859d7f0d6724-006",
+        "case-a216636ebacf-001",
+        "case-34ce7e953e7f-001",
+        "case-cb78f713aad8-001",
+        "case-790d97b0f102-001",
+        "case-85708fe73744-001",
+        "case-d2bb4496f3e6-001",
+        "case-414a13fee8bd-001",
+        "case-e6acf9917671-001",
+        "case-865e8f7b1c8a-001",
+        "case-a83c609f00da-001",
+        "case-fda5afbc0899-001",
+        "case-d1dd9b73180b-001",
+        "case-232d8a30e82f-007",
+        "case-232d8a30e82f-008",
+        "case-232d8a30e82f-009",
+        "case-442ac79fb3fe-001",
+        "case-631900d302f0-001",
+        "case-e84186dedd72-001",
+        "case-b5e67c07ac1f-001",
+        "case-8477f9b44d1b-001",
+        "case-66cdf3e8a320-001",
+        "case-7d76716caef1-001",
+        "case-2554d18c3921-001",
+        "case-fb98588324dc-001",
+        "case-f868619204fe-001",
+        "case-986e167df510-001",
+        "case-57720c03a67b-001",
+        "case-57720c03a67b-002",
+        "case-57720c03a67b-003",
+        "case-28c1dc3696c0-001",
+        "case-049ec6b03a85-001",
+        "case-ac2945c6cb68-001"
+      ]
     },
     {
       "id": "6",
       "number": 6,
       "title": "重大项目谋划",
-      "count": 2
+      "count": 13,
+      "question_ids": [
+        "case-ceadf0a46fe8-001",
+        "case-d91c9dce2730-001",
+        "case-8a94286a8ff5-001",
+        "case-cf89c21d6f07-001",
+        "case-7cc5468360a3-001",
+        "case-b75e35fa5fe7-001",
+        "case-e932b67d9c72-001",
+        "case-3a188ae454a7-001",
+        "case-4d6d5f56b186-001",
+        "case-d818308d0eb7-001",
+        "case-cc514e562b30-001",
+        "case-43f4ce478fd1-001",
+        "case-381fb3bbbcbf-001"
+      ]
     },
     {
       "id": "7",
       "number": 7,
       "title": "现金流量分析",
-      "count": 11
+      "count": 36,
+      "question_ids": [
+        "case-4cceb74635c2-001",
+        "case-e5c029459da2-001",
+        "case-0fada5dc263a-001",
+        "case-6bff35546a99-001",
+        "case-5bfdbf19fe44-001",
+        "case-56a34be29029-001",
+        "case-2e6b3dc3f2e8-001",
+        "case-4139fc8080ec-001",
+        "case-60e2305004fb-001",
+        "case-b84522d85fcf-001",
+        "case-b60a1aed5971-001",
+        "case-1d6b8d497b75-001",
+        "case-1d6b8d497b75-002",
+        "case-859d7f0d6724-007",
+        "case-9fe2a82bf9b1-001",
+        "case-6add7e9ae50c-001",
+        "case-e6a42250b511-001",
+        "case-e6a42250b511-002",
+        "case-394723328389-001",
+        "case-4b29634ced9c-001",
+        "case-d042f9215a2a-001",
+        "case-9c2e9114ccba-001",
+        "case-12c0e99fef69-002",
+        "case-12c0e99fef69-003",
+        "case-2d7fb8151819-001",
+        "case-35e83de4887c-001",
+        "case-9ebc3078b61a-001",
+        "case-135cac8d8934-001",
+        "case-fca5519c6fb6-001",
+        "case-febf2b16a6c9-001",
+        "case-20f27d055b8e-001",
+        "case-679578ffb838-001",
+        "case-679578ffb838-002",
+        "case-52789f61af24-001",
+        "case-cc5c810a5af6-001",
+        "case-4c88e323f0a2-001"
+      ]
     },
     {
       "id": "8",
       "number": 8,
       "title": "工程项目投资估算",
-      "count": 6
+      "count": 30,
+      "question_ids": [
+        "case-e71c7a678f1a-003",
+        "case-e71c7a678f1a-006",
+        "case-0f75daec50f9-001",
+        "case-d65a62224aeb-001",
+        "case-3cde94f48c63-001",
+        "case-31ce34f4c808-001",
+        "case-9d9b66197914-001",
+        "case-ea54680b3d0e-001",
+        "case-1cfad1243ff6-001",
+        "case-e6a42250b511-004",
+        "case-bde62d5de7bc-001",
+        "case-7600be131113-001",
+        "case-2591d67bcd71-001",
+        "case-438cb001fc06-001",
+        "case-45d722c35f43-001",
+        "case-8edb0e6fa91a-001",
+        "case-e11af92a60ee-001",
+        "case-d867f218c497-001",
+        "case-f9feabaaa8f6-001",
+        "case-5516f25762c3-001",
+        "case-f2148ebf0d85-001",
+        "case-0964f5aac281-001",
+        "case-cd2de0683cf7-001",
+        "case-cd2de0683cf7-002",
+        "case-cd2de0683cf7-003",
+        "case-1583b07b6457-001",
+        "case-996a8c9998da-001",
+        "case-cc095b53682d-001",
+        "case-772c630cf2dc-001",
+        "case-c84b2460445d-001"
+      ]
     },
     {
       "id": "9",
       "number": 9,
       "title": "融资方案分析",
-      "count": 7
+      "count": 37,
+      "question_ids": [
+        "case-bad5e6003f0b-001",
+        "case-3059748c4386-001",
+        "case-6a2afc76aae5-001",
+        "case-13e1a706ac0d-001",
+        "case-700085b2f893-001",
+        "case-5bef7cfaf495-001",
+        "case-a45859af2bec-001",
+        "case-60ed1249e56a-001",
+        "case-9380cd11ef2b-001",
+        "case-e816054b18a1-001",
+        "case-e17aad8bd845-001",
+        "case-772b79b51e63-001",
+        "case-be505a38ff2f-001",
+        "case-be505a38ff2f-002",
+        "case-7d694205fb75-001",
+        "case-baf5df7fefe9-001",
+        "case-be5509f85f70-001",
+        "case-be5509f85f70-002",
+        "case-59c7e2a905ae-001",
+        "case-851c8783d5c3-001",
+        "case-f3c127944eb7-001",
+        "case-5636801139f6-001",
+        "case-d7dd2c7af41a-001",
+        "case-d7e5f553e830-001",
+        "case-b96b1a177e3d-001",
+        "case-d36acda43091-001",
+        "case-9a7620b34c65-001",
+        "case-3ec0ba686d11-001",
+        "case-c41296071557-001",
+        "case-49bf3a5ef4fe-001",
+        "case-822829256dca-001",
+        "case-340b801f6bf2-001",
+        "case-9c609c3a607d-001",
+        "case-9c609c3a607d-002",
+        "case-12b706f1a60a-001",
+        "case-bfad3f23f9ea-001",
+        "case-a6dbd621bf1a-001"
+      ]
     },
     {
       "id": "10",
       "number": 10,
       "title": "工程项目财务分析",
-      "count": 4
+      "count": 33,
+      "question_ids": [
+        "case-d7ce613ea3ec-001",
+        "case-1deb4d65d1a0-001",
+        "case-84647e113466-001",
+        "case-82780b2e901d-001",
+        "case-d87be7508118-001",
+        "case-639aeb08dcfb-001",
+        "case-e5d59556a23e-001",
+        "case-e6a42250b511-003",
+        "case-410a10dfab2f-001",
+        "case-12c0e99fef69-001",
+        "case-90abede8351b-001",
+        "case-bced12e97486-001",
+        "case-03b6b6fd4c85-001",
+        "case-33a2cb0cda10-001",
+        "case-8e1b79229480-001",
+        "case-accc33a88674-001",
+        "case-40929208b650-001",
+        "case-e391f2ca7a9f-001",
+        "case-cb1c4b4b5385-001",
+        "case-6140160aa545-001",
+        "case-c98cb108f759-001",
+        "case-b2b276a79d32-001",
+        "case-136379c44183-001",
+        "case-4976ab967a69-001",
+        "case-2b665bdee982-001",
+        "case-2b665bdee982-002",
+        "case-2b665bdee982-003",
+        "case-4f71fc10bdb4-001",
+        "case-1871cfc32a55-001",
+        "case-197a62d8c7ba-001",
+        "case-84263f20c784-001",
+        "case-208289fb4769-001",
+        "case-9d7252ccd315-001"
+      ]
     },
     {
       "id": "11",
       "number": 11,
       "title": "工程项目经济分析",
-      "count": 4
+      "count": 21,
+      "question_ids": [
+        "case-cf830eed7f60-001",
+        "case-b4e26b37c795-001",
+        "case-05330babc296-001",
+        "case-31a0b216b24d-001",
+        "case-a5085662e4f7-001",
+        "case-8f8da7cb18e6-001",
+        "case-5b061ef8f60f-001",
+        "case-61482d98ea75-001",
+        "case-b79c0ae722c4-001",
+        "case-a23e7e387fda-001",
+        "case-2491149bc6fa-001",
+        "case-5d378edcf871-001",
+        "case-a24bdc9a7242-001",
+        "case-a24bdc9a7242-002",
+        "case-a24bdc9a7242-003",
+        "case-a24bdc9a7242-004",
+        "case-a24bdc9a7242-005",
+        "case-a24bdc9a7242-006",
+        "case-a24bdc9a7242-007",
+        "case-574960f086c3-001",
+        "case-d0a502e2eb48-001"
+      ]
+    },
+    {
+      "id": "12",
+      "number": 12,
+      "title": "“十五五”专题",
+      "count": 2,
+      "question_ids": [
+        "case-d28caf8ea9f8-001",
+        "case-dd5f0bd2dcb6-005"
+      ]
     }
   ],
   "exams": [
     {
-      "id": "exam-3539ccfa74f5",
-      "title": "HQ-咨询实务-万人模考卷",
-      "duration_minutes": 120,
+      "id": "exam-e71c7a678f1a",
+      "title": "JG-咨询实务-备考白皮书",
+      "duration_minutes": 180,
       "question_ids": [
-        "case-3539ccfa74f5-001"
+        "case-e71c7a678f1a-001",
+        "case-e71c7a678f1a-002",
+        "case-e71c7a678f1a-003",
+        "case-e71c7a678f1a-004",
+        "case-e71c7a678f1a-005",
+        "case-e71c7a678f1a-006"
       ],
       "source": {
-        "source_id": "3539ccfa74f5",
+        "source_id": "e71c7a678f1a",
+        "file_name": "JG-咨询实务-备考白皮书.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "id": "exam-22d3781312b3",
+      "title": "第一章　现代工程咨询方法",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-22d3781312b3-001"
+      ],
+      "source": {
+        "source_id": "22d3781312b3",
+        "file_name": "第一章　现代工程咨询方法.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-4cceb74635c2",
+      "title": "第七章　现金流量分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-4cceb74635c2-001"
+      ],
+      "source": {
+        "source_id": "4cceb74635c2",
+        "file_name": "第七章　现金流量分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-db23bf1b9431",
+      "title": "第三章　能源资源环境分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-db23bf1b9431-001"
+      ],
+      "source": {
+        "source_id": "db23bf1b9431",
+        "file_name": "第三章　能源资源环境分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-bad5e6003f0b",
+      "title": "第九章　融资方案分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-bad5e6003f0b-001"
+      ],
+      "source": {
+        "source_id": "bad5e6003f0b",
+        "file_name": "第九章　融资方案分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "exam-6d3852f6ab3b",
+      "title": "第二章　规划咨询的主要理论与方法",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-6d3852f6ab3b-001"
+      ],
+      "source": {
+        "source_id": "6d3852f6ab3b",
+        "file_name": "第二章　规划咨询的主要理论与方法.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-91e49dfcbfec",
+      "title": "第五章　市场分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-91e49dfcbfec-001"
+      ],
+      "source": {
+        "source_id": "91e49dfcbfec",
+        "file_name": "第五章　市场分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "exam-0f75daec50f9",
+      "title": "第八章　工程项目投资估算",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-0f75daec50f9-001"
+      ],
+      "source": {
+        "source_id": "0f75daec50f9",
+        "file_name": "第八章　工程项目投资估算.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "id": "exam-ceadf0a46fe8",
+      "title": "第六章　重大项目谋划",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-ceadf0a46fe8-001"
+      ],
+      "source": {
+        "source_id": "ceadf0a46fe8",
+        "file_name": "第六章　重大项目谋划.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-cf830eed7f60",
+      "title": "第十一章　工程项目经济分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-cf830eed7f60-001"
+      ],
+      "source": {
+        "source_id": "cf830eed7f60",
+        "file_name": "第十一章　工程项目经济分析.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-d7ce613ea3ec",
+      "title": "第十章　工程项目财务分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-d7ce613ea3ec-001"
+      ],
+      "source": {
+        "source_id": "d7ce613ea3ec",
+        "file_name": "第十章　工程项目财务分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-0dc9ef923b50",
+      "title": "第四章　战略分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-0dc9ef923b50-001"
+      ],
+      "source": {
+        "source_id": "0dc9ef923b50",
+        "file_name": "第四章　战略分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-872ff5a3f1ad",
+      "title": "HQ-咨询实务-思维导图",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-872ff5a3f1ad-001"
+      ],
+      "source": {
+        "source_id": "872ff5a3f1ad",
+        "file_name": "HQ-咨询实务-思维导图.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "exam-c5134749c994",
+      "title": "第一章　现代工程咨询方法",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-c5134749c994-001"
+      ],
+      "source": {
+        "source_id": "c5134749c994",
+        "file_name": "第一章　现代工程咨询方法.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-e5c029459da2",
+      "title": "第七章　现金流量分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-e5c029459da2-001"
+      ],
+      "source": {
+        "source_id": "e5c029459da2",
+        "file_name": "第七章　现金流量分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-349249bde901",
+      "title": "第三章　能源资源环境分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-349249bde901-001"
+      ],
+      "source": {
+        "source_id": "349249bde901",
+        "file_name": "第三章　能源资源环境分析.pdf",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "exam-3059748c4386",
+      "title": "第九章　融资方案分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-3059748c4386-001"
+      ],
+      "source": {
+        "source_id": "3059748c4386",
+        "file_name": "第九章　融资方案分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "exam-ff4d94c5b6fd",
+      "title": "第二章　规划咨询的主要理论与方法",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-ff4d94c5b6fd-001"
+      ],
+      "source": {
+        "source_id": "ff4d94c5b6fd",
+        "file_name": "第二章　规划咨询的主要理论与方法.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-56f2a395ed33",
+      "title": "第五章　市场分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-56f2a395ed33-001"
+      ],
+      "source": {
+        "source_id": "56f2a395ed33",
+        "file_name": "第五章　市场分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-d65a62224aeb",
+      "title": "第八章　工程项目投资估算",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-d65a62224aeb-001"
+      ],
+      "source": {
+        "source_id": "d65a62224aeb",
+        "file_name": "第八章　工程项目投资估算.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "exam-d91c9dce2730",
+      "title": "第六章　重大项目谋划",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-d91c9dce2730-001"
+      ],
+      "source": {
+        "source_id": "d91c9dce2730",
+        "file_name": "第六章　重大项目谋划.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-b4e26b37c795",
+      "title": "第十一章　工程项目经济分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-b4e26b37c795-001"
+      ],
+      "source": {
+        "source_id": "b4e26b37c795",
+        "file_name": "第十一章　工程项目经济分析.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-1deb4d65d1a0",
+      "title": "第十章　工程项目财务分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-1deb4d65d1a0-001"
+      ],
+      "source": {
+        "source_id": "1deb4d65d1a0",
+        "file_name": "第十章　工程项目财务分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "exam-830ed6ce26ab",
+      "title": "第四章　战略分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-830ed6ce26ab-001"
+      ],
+      "source": {
+        "source_id": "830ed6ce26ab",
+        "file_name": "第四章　战略分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "exam-0cca68d526a4",
+      "title": "2026咨询工程师《现代咨询方法与实务》精华习题集",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-0cca68d526a4-001"
+      ],
+      "source": {
+        "source_id": "0cca68d526a4",
+        "file_name": "2026咨询工程师《现代咨询方法与实务》精华习题集.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      }
+    },
+    {
+      "id": "exam-cb324d1a437b",
+      "title": "2026咨询工程师《现代咨询方法与实务》精华考点",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-cb324d1a437b-001"
+      ],
+      "source": {
+        "source_id": "cb324d1a437b",
+        "file_name": "2026咨询工程师《现代咨询方法与实务》精华考点.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      }
+    },
+    {
+      "id": "exam-fa10c791e952",
+      "title": "HQ-咨询实务-万人模考卷",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-fa10c791e952-001"
+      ],
+      "source": {
+        "source_id": "fa10c791e952",
         "file_name": "HQ-咨询实务-万人模考卷.pdf",
         "pages": [
           1,
@@ -99,14 +1152,389 @@
       }
     },
     {
-      "id": "exam-84b54296fec7",
+      "id": "exam-2874b763b009",
+      "title": "1.1现代工程咨询方法",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-2874b763b009-001"
+      ],
+      "source": {
+        "source_id": "2874b763b009",
+        "file_name": "1.1现代工程咨询方法.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-801295a8a2bb",
+      "title": "1.2信息数据与知识管理",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-801295a8a2bb-001"
+      ],
+      "source": {
+        "source_id": "801295a8a2bb",
+        "file_name": "1.2信息数据与知识管理.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-f73fc36de357",
+      "title": "10.1财务分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-f73fc36de357-001"
+      ],
+      "source": {
+        "source_id": "f73fc36de357",
+        "file_name": "10.1财务分析.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-0fada5dc263a",
+      "title": "10.2财务三能力分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-0fada5dc263a-001"
+      ],
+      "source": {
+        "source_id": "0fada5dc263a",
+        "file_name": "10.2财务三能力分析.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-05330babc296",
+      "title": "11.1经济分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-05330babc296-001"
+      ],
+      "source": {
+        "source_id": "05330babc296",
+        "file_name": "11.1经济分析.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-31a0b216b24d",
+      "title": "11.2经济分析基本方法",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-31a0b216b24d-001"
+      ],
+      "source": {
+        "source_id": "31a0b216b24d",
+        "file_name": "11.2经济分析基本方法.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-f96729eb9656",
+      "title": "2.1区域发展基础理论",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-f96729eb9656-001"
+      ],
+      "source": {
+        "source_id": "f96729eb9656",
+        "file_name": "2.1区域发展基础理论.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-cefeba0f051c",
+      "title": "2.2区域发展阶段分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-cefeba0f051c-001"
+      ],
+      "source": {
+        "source_id": "cefeba0f051c",
+        "file_name": "2.2区域发展阶段分析.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-fe287d54e6c7",
+      "title": "2.3规划预测与分析方法、工作流程",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-fe287d54e6c7-001"
+      ],
+      "source": {
+        "source_id": "fe287d54e6c7",
+        "file_name": "2.3规划预测与分析方法、工作流程.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-52a448c288d0",
+      "title": "2.4规划评估方法",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-52a448c288d0-001"
+      ],
+      "source": {
+        "source_id": "52a448c288d0",
+        "file_name": "2.4规划评估方法.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-efb46db5d856",
+      "title": "3.1能耗与碳排放分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-efb46db5d856-001"
+      ],
+      "source": {
+        "source_id": "efb46db5d856",
+        "file_name": "3.1能耗与碳排放分析.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-7be88c2151ae",
+      "title": "3.2资源环境承载力分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-7be88c2151ae-001"
+      ],
+      "source": {
+        "source_id": "7be88c2151ae",
+        "file_name": "3.2资源环境承载力分析.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-c3952f374e22",
+      "title": "4.1市场战略基础",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-c3952f374e22-001"
+      ],
+      "source": {
+        "source_id": "c3952f374e22",
+        "file_name": "4.1市场战略基础.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-5f4a9128e4b6",
+      "title": "4.2竞争能力分析与价值链分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-5f4a9128e4b6-001"
+      ],
+      "source": {
+        "source_id": "5f4a9128e4b6",
+        "file_name": "4.2竞争能力分析与价值链分析.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-c239e04f6b34",
+      "title": "4.3投资组合分析与对标分析",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-c239e04f6b34-001"
+      ],
+      "source": {
+        "source_id": "c239e04f6b34",
+        "file_name": "4.3投资组合分析与对标分析.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-de195579107e",
+      "title": "5.1定性预测",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-de195579107e-001"
+      ],
+      "source": {
+        "source_id": "de195579107e",
+        "file_name": "5.1定性预测.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-6d8f0d103075",
+      "title": "5.2定量预测",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-6d8f0d103075-001"
+      ],
+      "source": {
+        "source_id": "6d8f0d103075",
+        "file_name": "5.2定量预测.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-d1b368ae5216",
+      "title": "6.1重大项目谋划",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-d1b368ae5216-001"
+      ],
+      "source": {
+        "source_id": "d1b368ae5216",
+        "file_name": "6.1重大项目谋划.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-6bff35546a99",
+      "title": "7.1资金时间价值与等值换算",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-6bff35546a99-001"
+      ],
+      "source": {
+        "source_id": "6bff35546a99",
+        "file_name": "7.1资金时间价值与等值换算.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-5bfdbf19fe44",
+      "title": "7.2现金流量分析指标及应用",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-5bfdbf19fe44-001"
+      ],
+      "source": {
+        "source_id": "5bfdbf19fe44",
+        "file_name": "7.2现金流量分析指标及应用.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-3cde94f48c63",
+      "title": "8.1建设投资估算",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-3cde94f48c63-001"
+      ],
+      "source": {
+        "source_id": "3cde94f48c63",
+        "file_name": "8.1建设投资估算.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-6a2afc76aae5",
+      "title": "8.2建设期融资费用与流动资金估算",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-6a2afc76aae5-001"
+      ],
+      "source": {
+        "source_id": "6a2afc76aae5",
+        "file_name": "8.2建设期融资费用与流动资金估算.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-13e1a706ac0d",
+      "title": "9.1资金成本与资金结构优化比选",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-13e1a706ac0d-001"
+      ],
+      "source": {
+        "source_id": "13e1a706ac0d",
+        "file_name": "9.1资金成本与资金结构优化比选.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-56a34be29029",
+      "title": "9.2资产证券化与企业并购",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-56a34be29029-001"
+      ],
+      "source": {
+        "source_id": "56a34be29029",
+        "file_name": "9.2资产证券化与企业并购.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-31ce34f4c808",
+      "title": "9.3地方政府债券",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-31ce34f4c808-001"
+      ],
+      "source": {
+        "source_id": "31ce34f4c808",
+        "file_name": "9.3地方政府债券.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-34baaa109a24",
       "title": "川杨学堂2026咨询工程师-实务测试题第一章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-84b54296fec7-001"
+        "case-34baaa109a24-001"
       ],
       "source": {
-        "source_id": "84b54296fec7",
+        "source_id": "34baaa109a24",
         "file_name": "川杨学堂2026咨询工程师-实务测试题第一章（带参考答案）.pdf",
         "pages": [
           1,
@@ -118,14 +1546,14 @@
       }
     },
     {
-      "id": "exam-551efb3d5d4e",
+      "id": "exam-2e6b3dc3f2e8",
       "title": "川杨学堂2026咨询工程师-实务测试题第七、八章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-551efb3d5d4e-001"
+        "case-2e6b3dc3f2e8-001"
       ],
       "source": {
-        "source_id": "551efb3d5d4e",
+        "source_id": "2e6b3dc3f2e8",
         "file_name": "川杨学堂2026咨询工程师-实务测试题第七、八章（带参考答案）.pdf",
         "pages": [
           1,
@@ -138,14 +1566,14 @@
       }
     },
     {
-      "id": "exam-1dc3fe6a62dc",
+      "id": "exam-3e037d734d73",
       "title": "川杨学堂2026咨询工程师-实务测试题第三、四章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-1dc3fe6a62dc-001"
+        "case-3e037d734d73-001"
       ],
       "source": {
-        "source_id": "1dc3fe6a62dc",
+        "source_id": "3e037d734d73",
         "file_name": "川杨学堂2026咨询工程师-实务测试题第三、四章（带参考答案）.pdf",
         "pages": [
           1,
@@ -159,14 +1587,14 @@
       }
     },
     {
-      "id": "exam-4a84c9e62199",
+      "id": "exam-700085b2f893",
       "title": "川杨学堂2026咨询工程师-实务测试题第九章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-4a84c9e62199-001"
+        "case-700085b2f893-001"
       ],
       "source": {
-        "source_id": "4a84c9e62199",
+        "source_id": "700085b2f893",
         "file_name": "川杨学堂2026咨询工程师-实务测试题第九章（带参考答案）.pdf",
         "pages": [
           1,
@@ -179,14 +1607,14 @@
       }
     },
     {
-      "id": "exam-2711bb75db65",
+      "id": "exam-51d7658a36ad",
       "title": "川杨学堂2026咨询工程师-实务测试题第二章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-2711bb75db65-001"
+        "case-51d7658a36ad-001"
       ],
       "source": {
-        "source_id": "2711bb75db65",
+        "source_id": "51d7658a36ad",
         "file_name": "川杨学堂2026咨询工程师-实务测试题第二章（带参考答案）.pdf",
         "pages": [
           1,
@@ -198,14 +1626,14 @@
       }
     },
     {
-      "id": "exam-2eabc438bb90",
+      "id": "exam-a5c22bcf8d40",
       "title": "川杨学堂2026咨询工程师-实务测试题第五、六章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-2eabc438bb90-001"
+        "case-a5c22bcf8d40-001"
       ],
       "source": {
-        "source_id": "2eabc438bb90",
+        "source_id": "a5c22bcf8d40",
         "file_name": "川杨学堂2026咨询工程师-实务测试题第五、六章（带参考答案）.pdf",
         "pages": [
           1,
@@ -219,14 +1647,14 @@
       }
     },
     {
-      "id": "exam-47dda1e8243b",
+      "id": "exam-84647e113466",
       "title": "川杨学堂2026咨询工程师-实务测试题第十、十一章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-47dda1e8243b-001"
+        "case-84647e113466-001"
       ],
       "source": {
-        "source_id": "47dda1e8243b",
+        "source_id": "84647e113466",
         "file_name": "川杨学堂2026咨询工程师-实务测试题第十、十一章（带参考答案）.pdf",
         "pages": [
           1,
@@ -240,14 +1668,135 @@
       }
     },
     {
-      "id": "exam-bc7096e6e599",
+      "id": "exam-a45859af2bec",
+      "title": "2026年《咨询工程师》提分攻略-主观题",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-a45859af2bec-001"
+      ],
+      "source": {
+        "source_id": "a45859af2bec",
+        "file_name": "2026年《咨询工程师》提分攻略-主观题.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-825b4cd967d5",
+      "title": "2026年《咨询工程师》提分攻略-客观题",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-825b4cd967d5-001"
+      ],
+      "source": {
+        "source_id": "825b4cd967d5",
+        "file_name": "2026年《咨询工程师》提分攻略-客观题.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-6fbcb8b33496",
+      "title": "KL-咨询实务-黑马逆袭宝典",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-6fbcb8b33496-001"
+      ],
+      "source": {
+        "source_id": "6fbcb8b33496",
+        "file_name": "KL-咨询实务-黑马逆袭宝典.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      }
+    },
+    {
+      "id": "exam-4e74a3f1b9f3",
+      "title": "川杨学堂2026咨询工程师-实务测试题-涉及其他三科（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-4e74a3f1b9f3-001"
+      ],
+      "source": {
+        "source_id": "4e74a3f1b9f3",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题-涉及其他三科（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-60e2305004fb",
+      "title": "川杨学堂2026咨询工程师-实务测试题-集训内容专题（财务、盈亏平衡、动态指标计算）（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-60e2305004fb-001"
+      ],
+      "source": {
+        "source_id": "60e2305004fb",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题-集训内容专题（财务、盈亏平衡、动态指标计算）（带参考答案）.pdf",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "exam-b84522d85fcf",
       "title": "CY-咨询实务-测试题-全真模拟考试三（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-bc7096e6e599-001"
+        "case-b84522d85fcf-001"
       ],
       "source": {
-        "source_id": "bc7096e6e599",
+        "source_id": "b84522d85fcf",
         "file_name": "CY-咨询实务-测试题-全真模拟考试三（带参考答案）.pdf",
         "pages": [
           1,
@@ -261,14 +1810,14 @@
       }
     },
     {
-      "id": "exam-3cf13b92a94e",
+      "id": "exam-3f4a556edd31",
       "title": "川杨学堂2026咨询工程师-实务测试题-全真模拟考试一（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-3cf13b92a94e-001"
+        "case-3f4a556edd31-001"
       ],
       "source": {
-        "source_id": "3cf13b92a94e",
+        "source_id": "3f4a556edd31",
         "file_name": "川杨学堂2026咨询工程师-实务测试题-全真模拟考试一（带参考答案）.pdf",
         "pages": [
           1,
@@ -283,14 +1832,14 @@
       }
     },
     {
-      "id": "exam-5d64f0500047",
+      "id": "exam-afcbe666aad1",
       "title": "川杨学堂2026咨询工程师-实务测试题-全真模拟考试二（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-5d64f0500047-001"
+        "case-afcbe666aad1-001"
       ],
       "source": {
-        "source_id": "5d64f0500047",
+        "source_id": "afcbe666aad1",
         "file_name": "川杨学堂2026咨询工程师-实务测试题-全真模拟考试二（带参考答案）.pdf",
         "pages": [
           1,
@@ -304,31 +1853,1678 @@
           9
         ]
       }
+    },
+    {
+      "id": "exam-6032bcc57472",
+      "title": "JG-咨询实务-林轩简答背诵",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-6032bcc57472-001"
+      ],
+      "source": {
+        "source_id": "6032bcc57472",
+        "file_name": "JG-咨询实务-林轩简答背诵.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      }
+    },
+    {
+      "id": "exam-4c698b390e62",
+      "title": "川杨学堂2026咨询工程师-实务测试题第一章（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-4c698b390e62-001"
+      ],
+      "source": {
+        "source_id": "4c698b390e62",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第一章（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-9bd867511f2a",
+      "title": "川杨学堂2026咨询工程师-实务测试题第二章（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-9bd867511f2a-001"
+      ],
+      "source": {
+        "source_id": "9bd867511f2a",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第二章（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-3ec0ba686d11",
+      "title": "2026咨询甄题详解《方法与实务》在线版",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-3ec0ba686d11-001"
+      ],
+      "source": {
+        "source_id": "3ec0ba686d11",
+        "file_name": "2026咨询甄题详解《方法与实务》在线版.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163
+        ]
+      }
+    },
+    {
+      "id": "exam-c41296071557",
+      "title": "2026咨询甄题详解《方法与实务》打印版",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-c41296071557-001"
+      ],
+      "source": {
+        "source_id": "c41296071557",
+        "file_name": "2026咨询甄题详解《方法与实务》打印版.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      }
+    },
+    {
+      "id": "exam-69d12c22d61a",
+      "title": "06.21年真题解析（一）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-69d12c22d61a-001"
+      ],
+      "source": {
+        "source_id": "69d12c22d61a",
+        "file_name": "06.21年真题解析（一）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-7d76716caef1",
+      "title": "07.21年真题解析（二）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-7d76716caef1-001"
+      ],
+      "source": {
+        "source_id": "7d76716caef1",
+        "file_name": "07.21年真题解析（二）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-fca5519c6fb6",
+      "title": "08.21年真题解析（三）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-fca5519c6fb6-001"
+      ],
+      "source": {
+        "source_id": "fca5519c6fb6",
+        "file_name": "08.21年真题解析（三）.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-ddeb855661d4",
+      "title": "09.22年真题解析（一）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-ddeb855661d4-001"
+      ],
+      "source": {
+        "source_id": "ddeb855661d4",
+        "file_name": "09.22年真题解析（一）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-2554d18c3921",
+      "title": "10.22年真题解析（二）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-2554d18c3921-001"
+      ],
+      "source": {
+        "source_id": "2554d18c3921",
+        "file_name": "10.22年真题解析（二）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-f2148ebf0d85",
+      "title": "11.22年真题解析（三）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-f2148ebf0d85-001"
+      ],
+      "source": {
+        "source_id": "f2148ebf0d85",
+        "file_name": "11.22年真题解析（三）.pdf",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "exam-49bf3a5ef4fe",
+      "title": "12.22年真题解析（四）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-49bf3a5ef4fe-001"
+      ],
+      "source": {
+        "source_id": "49bf3a5ef4fe",
+        "file_name": "12.22年真题解析（四）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-cf5787e4a8a4",
+      "title": "13.23年真题解析（一）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-cf5787e4a8a4-001"
+      ],
+      "source": {
+        "source_id": "cf5787e4a8a4",
+        "file_name": "13.23年真题解析（一）.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-fb98588324dc",
+      "title": "14.23年真题解析（二）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-fb98588324dc-001"
+      ],
+      "source": {
+        "source_id": "fb98588324dc",
+        "file_name": "14.23年真题解析（二）.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-f868619204fe",
+      "title": "15.23年真题解析（三）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-f868619204fe-001"
+      ],
+      "source": {
+        "source_id": "f868619204fe",
+        "file_name": "15.23年真题解析（三）.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-913d62e2440d",
+      "title": "19.25年真题解析（一）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-913d62e2440d-001"
+      ],
+      "source": {
+        "source_id": "913d62e2440d",
+        "file_name": "19.25年真题解析（一）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-8f4c3b2763a2",
+      "title": "20.25年真题解析（二）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-8f4c3b2763a2-001"
+      ],
+      "source": {
+        "source_id": "8f4c3b2763a2",
+        "file_name": "20.25年真题解析（二）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-d532f1ba60a4",
+      "title": "21.25年真题解析（三）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-d532f1ba60a4-001"
+      ],
+      "source": {
+        "source_id": "d532f1ba60a4",
+        "file_name": "21.25年真题解析（三）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-66431fe60c85",
+      "title": "01-题型模块一、宏观分析（一）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-66431fe60c85-001"
+      ],
+      "source": {
+        "source_id": "66431fe60c85",
+        "file_name": "01-题型模块一、宏观分析（一）.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-96f93500c1d1",
+      "title": "02-题型模块一、宏观分析（二）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-96f93500c1d1-001"
+      ],
+      "source": {
+        "source_id": "96f93500c1d1",
+        "file_name": "02-题型模块一、宏观分析（二）.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-b01b014d0cdc",
+      "title": "03-题型模块二、企业战略",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-b01b014d0cdc-001"
+      ],
+      "source": {
+        "source_id": "b01b014d0cdc",
+        "file_name": "03-题型模块二、企业战略.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-0964f5aac281",
+      "title": "04-题型模块三、投资估算",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-0964f5aac281-001"
+      ],
+      "source": {
+        "source_id": "0964f5aac281",
+        "file_name": "04-题型模块三、投资估算.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-febf2b16a6c9",
+      "title": "05-题型模块四、融资分析（一）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-febf2b16a6c9-001"
+      ],
+      "source": {
+        "source_id": "febf2b16a6c9",
+        "file_name": "05-题型模块四、融资分析（一）.pdf",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "exam-822829256dca",
+      "title": "06-题型模块四、融资分析（二）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-822829256dca-001"
+      ],
+      "source": {
+        "source_id": "822829256dca",
+        "file_name": "06-题型模块四、融资分析（二）.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-20f27d055b8e",
+      "title": "07-题型模块五、财务分析（一）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-20f27d055b8e-001"
+      ],
+      "source": {
+        "source_id": "20f27d055b8e",
+        "file_name": "07-题型模块五、财务分析（一）.pdf",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "exam-986e167df510",
+      "title": "08-题型模块五、财务分析（二）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-986e167df510-001"
+      ],
+      "source": {
+        "source_id": "986e167df510",
+        "file_name": "08-题型模块五、财务分析（二）.pdf",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "exam-4976ab967a69",
+      "title": "09-题型模块五、财务分析（三）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-4976ab967a69-001"
+      ],
+      "source": {
+        "source_id": "4976ab967a69",
+        "file_name": "09-题型模块五、财务分析（三）.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-5d378edcf871",
+      "title": "10-题型模块六、经济分析",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-5d378edcf871-001"
+      ],
+      "source": {
+        "source_id": "5d378edcf871",
+        "file_name": "10-题型模块六、经济分析.pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "exam-6858b2fd592f",
+      "title": "第一模块　现代咨询理论方法及其基本应用",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-6858b2fd592f-001"
+      ],
+      "source": {
+        "source_id": "6858b2fd592f",
+        "file_name": "第一模块　现代咨询理论方法及其基本应用.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      }
+    },
+    {
+      "id": "exam-340b801f6bf2",
+      "title": "第二模块　投资、融资及财务经济分析",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-340b801f6bf2-001"
+      ],
+      "source": {
+        "source_id": "340b801f6bf2",
+        "file_name": "第二模块　投资、融资及财务经济分析.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      }
+    },
+    {
+      "id": "exam-8e97e5cd0880",
+      "title": "01.精题必练第一章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-8e97e5cd0880-001",
+        "case-8e97e5cd0880-002",
+        "case-8e97e5cd0880-003",
+        "case-8e97e5cd0880-004",
+        "case-8e97e5cd0880-005"
+      ],
+      "source": {
+        "source_id": "8e97e5cd0880",
+        "file_name": "01.精题必练第一章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-f62f2b1860ff",
+      "title": "02.精题必练第二章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-f62f2b1860ff-001",
+        "case-f62f2b1860ff-002",
+        "case-f62f2b1860ff-003",
+        "case-f62f2b1860ff-004"
+      ],
+      "source": {
+        "source_id": "f62f2b1860ff",
+        "file_name": "02.精题必练第二章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-b84359ca833b",
+      "title": "03.精题必练第三章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-b84359ca833b-001",
+        "case-b84359ca833b-002",
+        "case-b84359ca833b-003"
+      ],
+      "source": {
+        "source_id": "b84359ca833b",
+        "file_name": "03.精题必练第三章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-df0cc04c21ee",
+      "title": "04.精题必练第四章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-df0cc04c21ee-001",
+        "case-df0cc04c21ee-002"
+      ],
+      "source": {
+        "source_id": "df0cc04c21ee",
+        "file_name": "04.精题必练第四章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "exam-57720c03a67b",
+      "title": "05.精题必练第五章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-57720c03a67b-001",
+        "case-57720c03a67b-002",
+        "case-57720c03a67b-003"
+      ],
+      "source": {
+        "source_id": "57720c03a67b",
+        "file_name": "05.精题必练第五章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-43f4ce478fd1",
+      "title": "06.精题必练第六章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-43f4ce478fd1-001"
+      ],
+      "source": {
+        "source_id": "43f4ce478fd1",
+        "file_name": "06.精题必练第六章.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-679578ffb838",
+      "title": "07.精题必练第七章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-679578ffb838-001",
+        "case-679578ffb838-002"
+      ],
+      "source": {
+        "source_id": "679578ffb838",
+        "file_name": "07.精题必练第七章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-cd2de0683cf7",
+      "title": "08.精题必练第八章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-cd2de0683cf7-001",
+        "case-cd2de0683cf7-002",
+        "case-cd2de0683cf7-003"
+      ],
+      "source": {
+        "source_id": "cd2de0683cf7",
+        "file_name": "08.精题必练第八章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-9c609c3a607d",
+      "title": "09.精题必练第九章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-9c609c3a607d-001",
+        "case-9c609c3a607d-002"
+      ],
+      "source": {
+        "source_id": "9c609c3a607d",
+        "file_name": "09.精题必练第九章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-2b665bdee982",
+      "title": "10.精题必练第十章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-2b665bdee982-001",
+        "case-2b665bdee982-002",
+        "case-2b665bdee982-003"
+      ],
+      "source": {
+        "source_id": "2b665bdee982",
+        "file_name": "10.精题必练第十章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-75baffdbd30e",
+      "title": "Removed_01.精题必练第一章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-8e97e5cd0880-001",
+        "case-8e97e5cd0880-002",
+        "case-8e97e5cd0880-003",
+        "case-8e97e5cd0880-004",
+        "case-8e97e5cd0880-005"
+      ],
+      "source": {
+        "source_id": "75baffdbd30e",
+        "file_name": "Removed_01.精题必练第一章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-8aae51f62edf",
+      "title": "Removed_02.精题必练第二章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-f62f2b1860ff-001",
+        "case-f62f2b1860ff-002",
+        "case-f62f2b1860ff-003",
+        "case-f62f2b1860ff-004"
+      ],
+      "source": {
+        "source_id": "8aae51f62edf",
+        "file_name": "Removed_02.精题必练第二章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-788fce48f118",
+      "title": "Removed_03.精题必练第三章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-b84359ca833b-001",
+        "case-b84359ca833b-002",
+        "case-b84359ca833b-003"
+      ],
+      "source": {
+        "source_id": "788fce48f118",
+        "file_name": "Removed_03.精题必练第三章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-226405bd86f5",
+      "title": "Removed_04.精题必练第四章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-df0cc04c21ee-001",
+        "case-df0cc04c21ee-002"
+      ],
+      "source": {
+        "source_id": "226405bd86f5",
+        "file_name": "Removed_04.精题必练第四章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "exam-6df1eef38734",
+      "title": "Removed_05.精题必练第五章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-57720c03a67b-001",
+        "case-57720c03a67b-002",
+        "case-57720c03a67b-003"
+      ],
+      "source": {
+        "source_id": "6df1eef38734",
+        "file_name": "Removed_05.精题必练第五章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-f84aaa995d9e",
+      "title": "Removed_06.精题必练第六章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-43f4ce478fd1-001"
+      ],
+      "source": {
+        "source_id": "f84aaa995d9e",
+        "file_name": "Removed_06.精题必练第六章.pdf",
+        "pages": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "exam-ae546993fd23",
+      "title": "Removed_07.精题必练第七章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-679578ffb838-001",
+        "case-679578ffb838-002"
+      ],
+      "source": {
+        "source_id": "ae546993fd23",
+        "file_name": "Removed_07.精题必练第七章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-3437e1295e2b",
+      "title": "Removed_08.精题必练第八章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-cd2de0683cf7-001",
+        "case-cd2de0683cf7-002",
+        "case-cd2de0683cf7-003"
+      ],
+      "source": {
+        "source_id": "3437e1295e2b",
+        "file_name": "Removed_08.精题必练第八章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "exam-3b2bc67341cf",
+      "title": "Removed_09.精题必练第九章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-9c609c3a607d-001",
+        "case-9c609c3a607d-002"
+      ],
+      "source": {
+        "source_id": "3b2bc67341cf",
+        "file_name": "Removed_09.精题必练第九章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-cdfe1e1e7cb5",
+      "title": "Removed_10.精题必练第十章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-2b665bdee982-001",
+        "case-2b665bdee982-002",
+        "case-2b665bdee982-003"
+      ],
+      "source": {
+        "source_id": "cdfe1e1e7cb5",
+        "file_name": "Removed_10.精题必练第十章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-a24bdc9a7242",
+      "title": "Removed_11.精题必练第十一章",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-a24bdc9a7242-001",
+        "case-a24bdc9a7242-002",
+        "case-a24bdc9a7242-003",
+        "case-a24bdc9a7242-004",
+        "case-a24bdc9a7242-005",
+        "case-a24bdc9a7242-006",
+        "case-a24bdc9a7242-007"
+      ],
+      "source": {
+        "source_id": "a24bdc9a7242",
+        "file_name": "Removed_11.精题必练第十一章.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-98f778542009",
+      "title": "02.第1讲-万人模考解析（一）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-98f778542009-001"
+      ],
+      "source": {
+        "source_id": "98f778542009",
+        "file_name": "02.第1讲-万人模考解析（一）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    },
+    {
+      "id": "exam-d4f697b957ff",
+      "title": "第1讲-万人模考解析（一）",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-98f778542009-001"
+      ],
+      "source": {
+        "source_id": "d4f697b957ff",
+        "file_name": "第1讲-万人模考解析（一）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    },
+    {
+      "id": "exam-4f71fc10bdb4",
+      "title": "川杨学堂2026咨询工程师-实务测试题第十、十一章（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-4f71fc10bdb4-001"
+      ],
+      "source": {
+        "source_id": "4f71fc10bdb4",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第十、十一章（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-02d12bc7dbec",
+      "title": "JG-咨询实务-万人模考",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-02d12bc7dbec-001"
+      ],
+      "source": {
+        "source_id": "02d12bc7dbec",
+        "file_name": "JG-咨询实务-万人模考.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-62315b6fbd6d",
+      "title": "讲义",
+      "duration_minutes": 120,
+      "question_ids": [
+        "case-62315b6fbd6d-001"
+      ],
+      "source": {
+        "source_id": "62315b6fbd6d",
+        "file_name": "讲义.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    },
+    {
+      "id": "exam-5fc12380c0a7",
+      "title": "2026咨询工程师《方法与实务》考前集训-试卷【下载打印】",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-5fc12380c0a7-001"
+      ],
+      "source": {
+        "source_id": "5fc12380c0a7",
+        "file_name": "2026咨询工程师《方法与实务》考前集训-试卷【下载打印】.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-94e8bc98bb4d",
+      "title": "01.第1讲-临考点睛解析（一）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-94e8bc98bb4d-001"
+      ],
+      "source": {
+        "source_id": "94e8bc98bb4d",
+        "file_name": "01.第1讲-临考点睛解析（一）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    },
+    {
+      "id": "exam-93b219c6d45e",
+      "title": "YL- 咨询实务-考前集训卷",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-5fc12380c0a7-001"
+      ],
+      "source": {
+        "source_id": "93b219c6d45e",
+        "file_name": "YL- 咨询实务-考前集训卷.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-6cd42ddead78",
+      "title": "YL- 咨询实务-考前集训讲义",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-9d6547207562-001"
+      ],
+      "source": {
+        "source_id": "6cd42ddead78",
+        "file_name": "YL- 咨询实务-考前集训讲义.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      }
+    },
+    {
+      "id": "exam-ac2945c6cb68",
+      "title": "2026咨询-实务预测全真模拟卷（一）-题目答案分离",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-ac2945c6cb68-001"
+      ],
+      "source": {
+        "source_id": "ac2945c6cb68",
+        "file_name": "2026咨询-实务预测全真模拟卷（一）-题目答案分离.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "exam-1427db8ed5ae",
+      "title": "2026咨询-实务预测全真模拟卷（三）-题目答案分离",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-1427db8ed5ae-001"
+      ],
+      "source": {
+        "source_id": "1427db8ed5ae",
+        "file_name": "2026咨询-实务预测全真模拟卷（三）-题目答案分离.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-6e4aed0a1757",
+      "title": "2026咨询-实务预测全真模拟卷（二）-题目答案分离",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-6e4aed0a1757-001"
+      ],
+      "source": {
+        "source_id": "6e4aed0a1757",
+        "file_name": "2026咨询-实务预测全真模拟卷（二）-题目答案分离.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-8e1d91e2d5b4",
+      "title": "HQ-咨询实务-临考点睛卷",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-94e8bc98bb4d-001"
+      ],
+      "source": {
+        "source_id": "8e1d91e2d5b4",
+        "file_name": "HQ-咨询实务-临考点睛卷.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    },
+    {
+      "id": "exam-167bf2a5923a",
+      "title": "HQ-咨询实务-必背十页纸",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-167bf2a5923a-001"
+      ],
+      "source": {
+        "source_id": "167bf2a5923a",
+        "file_name": "HQ-咨询实务-必背十页纸.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    },
+    {
+      "id": "exam-16594dae1036",
+      "title": "KL-咨询实务-考前模拟试AB卷",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-16594dae1036-001"
+      ],
+      "source": {
+        "source_id": "16594dae1036",
+        "file_name": "KL-咨询实务-考前模拟试AB卷.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
     }
   ],
   "totals": {
-    "source_count": 87,
-    "source_pages": 1083,
-    "processed_source_count": 87,
-    "parsed_case_count": 85,
-    "published_case_count": 85,
-    "subquestion_count": 267,
-    "duplicate_group_count": 0,
+    "source_count": 509,
+    "source_pages": 7237,
+    "processed_source_count": 509,
+    "parsed_case_count": 519,
+    "published_case_count": 438,
+    "subquestion_count": 1862,
+    "duplicate_group_count": 81,
     "review_item_count": 0,
     "source_failures": [],
     "chapter_counts": {
-      "1": 9,
-      "2": 11,
-      "3": 11,
-      "4": 5,
-      "5": 15,
-      "6": 2,
-      "7": 11,
-      "8": 6,
-      "9": 7,
-      "10": 4,
-      "11": 4
+      "1": 50,
+      "2": 95,
+      "3": 43,
+      "4": 29,
+      "5": 49,
+      "6": 13,
+      "7": 36,
+      "8": 30,
+      "9": 37,
+      "10": 33,
+      "11": 21,
+      "12": 2
     },
-    "exam_count": 11
+    "exam_count": 133
   }
 }

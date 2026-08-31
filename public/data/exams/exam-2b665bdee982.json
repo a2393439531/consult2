@@ -1,0 +1,21 @@
+{
+  "id": "exam-2b665bdee982",
+  "title": "10.精题必练第十章",
+  "duration_minutes": 120,
+  "question_ids": [
+    "case-2b665bdee982-001",
+    "case-2b665bdee982-002",
+    "case-2b665bdee982-003"
+  ],
+  "source": {
+    "source_id": "2b665bdee982",
+    "file_name": "10.精题必练第十章.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}

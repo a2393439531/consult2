@@ -1,0 +1,22 @@
+{
+  "id": "exam-8e97e5cd0880",
+  "title": "01.精题必练第一章",
+  "duration_minutes": 120,
+  "question_ids": [
+    "case-8e97e5cd0880-001",
+    "case-8e97e5cd0880-002",
+    "case-8e97e5cd0880-003",
+    "case-8e97e5cd0880-004",
+    "case-8e97e5cd0880-005"
+  ],
+  "source": {
+    "source_id": "8e97e5cd0880",
+    "file_name": "01.精题必练第一章.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

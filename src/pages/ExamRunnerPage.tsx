@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { loadChapter, loadExam } from '../data/manifest'
+import { loadAllChapters, loadExam } from '../data/manifest'
 import type { CaseQuestion, ExamShard, Mastery } from '../domain/types'
 import { elapsedSeconds } from '../domain/exam'
 import { useStudyStore } from '../store/studyStore'
@@ -22,7 +22,7 @@ export function ExamRunnerPage() {
   const submitExam = useStudyStore((state) => state.submitExam)
   const setExamMastery = useStudyStore((state) => state.setExamMastery)
   useEffect(() => { loadExam(examId).then(setExam).catch((reason: Error) => setError(reason.message)) }, [examId])
-  useEffect(() => { Promise.all(Array.from({ length: 11 }, (_, index) => loadChapter(String(index + 1)))).then((chapters) => setQuestions(chapters.flatMap((chapter) => chapter.questions))).catch((reason: Error) => setError(reason.message)) }, [])
+  useEffect(() => { loadAllChapters().then((chapters) => setQuestions(chapters.flatMap((chapter) => chapter.questions))).catch((reason: Error) => setError(reason.message)) }, [])
   useEffect(() => { if (session?.status !== 'active') return; const timer = window.setInterval(() => setNow(Date.now()), 1000); return () => window.clearInterval(timer) }, [session?.status])
   const orderedQuestions = useMemo(() => exam && questions ? exam.question_ids.map((id) => questions.find((question) => question.id === id)).filter(Boolean) as CaseQuestion[] : [], [exam, questions])
   if (error) return <EmptyState title="模考试卷加载失败" copy={error} />

@@ -1,0 +1,28 @@
+{
+  "id": "exam-e71c7a678f1a",
+  "title": "JG-咨询实务-备考白皮书",
+  "duration_minutes": 180,
+  "question_ids": [
+    "case-e71c7a678f1a-001",
+    "case-e71c7a678f1a-002",
+    "case-e71c7a678f1a-003",
+    "case-e71c7a678f1a-004",
+    "case-e71c7a678f1a-005",
+    "case-e71c7a678f1a-006"
+  ],
+  "source": {
+    "source_id": "e71c7a678f1a",
+    "file_name": "JG-咨询实务-备考白皮书.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

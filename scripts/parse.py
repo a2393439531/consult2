@@ -94,7 +94,14 @@ def _parse_block(source: SourceDocument, block: str, offset: int, index: int) ->
         else:
             ans = _answer("本题答案详见完整解析。", analysis_text)
         if analysis_text and not ans.analysis:
-            ans.analysis = analysis_items[q_index] if len(analysis_items) == len(question_texts) and q_index < len(analysis_items) else analysis_text
+            if len(analysis_items) == len(question_texts) and q_index < len(analysis_items):
+                ans.analysis = analysis_items[q_index]
+            elif q_index == 0:
+                # When a long teaching handout has one global "解析" section
+                # for many questions, do not duplicate that entire section on
+                # every subquestion. Keep it on the first item while the
+                # original source/page reference remains available for all.
+                ans.analysis = analysis_text
         subquestions.append(SubQuestion(id=f"{source.id}-{index:03d}-{q_index + 1}", prompt=prompt, answer=ans))
 
     title_line = next((line.strip() for line in block.splitlines() if line.strip()), f"资料 {source.id} 题目 {index + 1}")

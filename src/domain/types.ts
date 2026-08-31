@@ -39,6 +39,7 @@ export interface ChapterSummary {
   number: number
   title: string
   count: number
+  question_ids?: string[]
 }
 
 export interface ChapterShard extends Omit<ChapterSummary, 'count'> {

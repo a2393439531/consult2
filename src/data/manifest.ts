@@ -29,6 +29,10 @@ export function loadChapter(id: string): Promise<ChapterShard> {
   return request
 }
 
+export function loadAllChapters(): Promise<ChapterShard[]> {
+  return loadManifest().then((manifest) => Promise.all(manifest.chapters.map((chapter) => loadChapter(chapter.id))))
+}
+
 export function loadExam(id: string): Promise<ExamShard> {
   const cached = examCache.get(id)
   if (cached) return cached

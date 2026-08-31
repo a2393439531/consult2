@@ -1,0 +1,25 @@
+{
+  "id": "exam-a24bdc9a7242",
+  "title": "Removed_11.精题必练第十一章",
+  "duration_minutes": 120,
+  "question_ids": [
+    "case-a24bdc9a7242-001",
+    "case-a24bdc9a7242-002",
+    "case-a24bdc9a7242-003",
+    "case-a24bdc9a7242-004",
+    "case-a24bdc9a7242-005",
+    "case-a24bdc9a7242-006",
+    "case-a24bdc9a7242-007"
+  ],
+  "source": {
+    "source_id": "a24bdc9a7242",
+    "file_name": "Removed_11.精题必练第十一章.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}

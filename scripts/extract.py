@@ -4,6 +4,8 @@ import argparse
 import json
 import re
 import subprocess
+import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -59,21 +61,43 @@ def extract_document(source_root: Path, source: SourceDocument, raw_dir: Path) -
 
 
 def main() -> None:
+    # Source paths contain symbols (for example ✿) that are not representable
+    # by the default Windows console code page. Keep progress logging from
+    # aborting an otherwise successful extraction run.
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except AttributeError:  # pragma: no cover - older Python runtimes
+        pass
     parser = argparse.ArgumentParser(description="Extract PDF text with MarkItDown first")
     parser.add_argument("--source-root", type=Path, required=True)
     parser.add_argument("--manifest", type=Path, required=True)
     parser.add_argument("--raw-dir", type=Path, required=True)
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=6,
+        help="number of PDFs to extract concurrently (default: 6)",
+    )
     args = parser.parse_args()
     sources = [SourceDocument.model_validate(item) for item in json.loads(args.manifest.read_text(encoding="utf-8"))]
     results: list[ExtractionResult] = []
     failures: list[str] = []
-    for source in sources:
-        try:
-            results.append(extract_document(args.source_root, source, args.raw_dir))
-            print(f"processed {source.relative_path}")
-        except Exception as exc:  # noqa: BLE001 - preserve per-file failure in report
-            failures.append(str(exc))
-            print(f"FAILED {source.relative_path}: {exc}")
+    workers = max(1, args.workers)
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        pending = {
+            executor.submit(extract_document, args.source_root, source, args.raw_dir): source
+            for source in sources
+        }
+        for future in as_completed(pending):
+            source = pending[future]
+            try:
+                results.append(future.result())
+                print(f"processed {source.relative_path}")
+            except Exception as exc:  # noqa: BLE001 - preserve per-file failure in report
+                failures.append(str(exc))
+                print(f"FAILED {source.relative_path}: {exc}")
+    results.sort(key=lambda item: item.source_id)
+    failures.sort()
     (args.raw_dir / "extraction-report.json").write_text(
         json.dumps(
             {"results": [item.model_dump(mode="json") for item in results], "failures": failures},

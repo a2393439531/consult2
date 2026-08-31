@@ -1,0 +1,15 @@
+{
+  "id": "exam-f73fc36de357",
+  "title": "10.1财务分析",
+  "duration_minutes": 180,
+  "question_ids": [
+    "case-f73fc36de357-001"
+  ],
+  "source": {
+    "source_id": "f73fc36de357",
+    "file_name": "10.1财务分析.pdf",
+    "pages": [
+      1
+    ]
+  }
+}

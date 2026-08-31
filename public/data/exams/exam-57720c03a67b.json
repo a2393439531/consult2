@@ -1,0 +1,20 @@
+{
+  "id": "exam-57720c03a67b",
+  "title": "05.精题必练第五章",
+  "duration_minutes": 120,
+  "question_ids": [
+    "case-57720c03a67b-001",
+    "case-57720c03a67b-002",
+    "case-57720c03a67b-003"
+  ],
+  "source": {
+    "source_id": "57720c03a67b",
+    "file_name": "05.精题必练第五章.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

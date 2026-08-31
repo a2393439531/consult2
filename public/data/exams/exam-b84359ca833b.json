@@ -1,0 +1,20 @@
+{
+  "id": "exam-b84359ca833b",
+  "title": "03.精题必练第三章",
+  "duration_minutes": 120,
+  "question_ids": [
+    "case-b84359ca833b-001",
+    "case-b84359ca833b-002",
+    "case-b84359ca833b-003"
+  ],
+  "source": {
+    "source_id": "b84359ca833b",
+    "file_name": "03.精题必练第三章.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

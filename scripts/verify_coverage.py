@@ -32,11 +32,14 @@ def verify(
     if coverage.get("review_item_count"):
         errors.append(f"review queue contains {coverage['review_item_count']} items")
     counts = coverage.get("chapter_counts", {})
-    for chapter in range(1, 12):
-        if counts.get(str(chapter), 0) < 1:
-            errors.append(f"chapter {chapter} has no published cases")
-        if not (data_dir / "chapters" / f"chapter-{chapter:02d}.json").exists():
-            errors.append(f"missing chapter shard {chapter:02d}")
+    manifest_file = data_dir / "manifest.json"
+    chapter_summaries = json.loads(manifest_file.read_text(encoding="utf-8")).get("chapters", []) if manifest_file.exists() else []
+    for chapter in chapter_summaries:
+        chapter_id = str(chapter.get("id", ""))
+        if counts.get(chapter_id, 0) < 1:
+            errors.append(f"chapter {chapter_id} has no published cases")
+        if not (data_dir / "chapters" / f"chapter-{int(chapter_id):02d}.json").exists():
+            errors.append(f"missing chapter shard {int(chapter_id):02d}")
     if coverage.get("published_case_count", 0) < 1:
         errors.append("no published cases")
     return errors
@@ -56,7 +59,8 @@ def main() -> None:
             print(f"ERROR: {error}")
         raise SystemExit(1)
     coverage = json.loads(args.coverage.read_text(encoding="utf-8"))
-    print(f"{coverage['source_count']} PDFs / {coverage['source_pages']} pages / 11 chapters / {coverage['review_item_count']} review items")
+    chapter_count = len(json.loads((args.data_dir / "manifest.json").read_text(encoding="utf-8")).get("chapters", []))
+    print(f"{coverage['source_count']} PDFs / {coverage['source_pages']} pages / {chapter_count} chapters / {coverage['review_item_count']} review items")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,21 @@
+{
+  "id": "exam-df0cc04c21ee",
+  "title": "04.精题必练第四章",
+  "duration_minutes": 120,
+  "question_ids": [
+    "case-df0cc04c21ee-001",
+    "case-df0cc04c21ee-002"
+  ],
+  "source": {
+    "source_id": "df0cc04c21ee",
+    "file_name": "04.精题必练第四章.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}

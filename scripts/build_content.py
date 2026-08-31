@@ -18,7 +18,7 @@ def _is_exam(source: SourceDocument) -> bool:
     path = source.relative_path.lower()
     if "空白卷" in path:
         return False
-    return any(token in path for token in ("模考", "模拟", "真题", "试卷", "点睛卷", "揭秘卷"))
+    return any(token in path for token in ("模考", "模拟", "真题", "试卷", "测试题", "集训卷", "点睛卷", "揭秘卷", "押题", "预测卷"))
 
 
 def _exam_title(source: SourceDocument) -> str:
@@ -27,7 +27,7 @@ def _exam_title(source: SourceDocument) -> str:
 
 def _duration(source: SourceDocument) -> int:
     path = source.relative_path
-    return 180 if any(token in path for token in ("真题", "模拟", "试卷", "点睛卷", "揭秘卷")) else 120
+    return 180 if any(token in path for token in ("真题", "模拟", "试卷", "测试题", "集训卷", "点睛卷", "揭秘卷", "押题", "预测卷")) else 120
 
 
 def build_content(manifest_path: Path, raw_dir: Path, output_dir: Path) -> dict[str, object]:
@@ -104,13 +104,22 @@ def build_content(manifest_path: Path, raw_dir: Path, output_dir: Path) -> dict[
         "duplicate_group_count": len(duplicate_groups),
         "review_item_count": len(review_queue),
         "source_failures": source_failures,
-        "chapter_counts": {str(key): chapter_counts.get(str(key), 0) for key in range(1, 12)},
+        "chapter_counts": {chapter["id"]: chapter_counts.get(chapter["id"], 0) for chapter in CHAPTERS},
         "exam_count": len(exams),
     }
     (output_dir / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2), encoding="utf-8")
     manifest = {
         "version": 1,
-        "chapters": [{"id": item["id"], "number": item["number"], "title": item["title"], "count": chapter_counts.get(item["id"], 0)} for item in CHAPTERS],
+        "chapters": [
+            {
+                "id": item["id"],
+                "number": item["number"],
+                "title": item["title"],
+                "count": chapter_counts.get(item["id"], 0),
+                "question_ids": [case.id for case in deduped if case.chapter_id == item["id"]],
+            }
+            for item in CHAPTERS
+        ],
         "exams": [exam.model_dump(mode="json") for exam in exams],
         "totals": coverage,
     }

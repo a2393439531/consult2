@@ -1,1 +1,407 @@
-[]
+[
+  {
+    "primary": "case-22d3781312b3-001",
+    "merged": "case-82e24db5811f-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-4cceb74635c2-001",
+    "merged": "case-ac5591275e02-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-db23bf1b9431-001",
+    "merged": "case-20faea246023-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-bad5e6003f0b-001",
+    "merged": "case-32abbddd6a11-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-6d3852f6ab3b-001",
+    "merged": "case-85677becc65a-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-91e49dfcbfec-001",
+    "merged": "case-21bb44d069ee-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-0f75daec50f9-001",
+    "merged": "case-49660228ce1d-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-ceadf0a46fe8-001",
+    "merged": "case-b72d5c8ed50d-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-cf830eed7f60-001",
+    "merged": "case-976a8c621198-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-d7ce613ea3ec-001",
+    "merged": "case-aa5563b99583-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-0dc9ef923b50-001",
+    "merged": "case-b643e7419def-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-d4a80895a2bc-001",
+    "merged": "case-fca8cae79554-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-e6a42250b511-001",
+    "merged": "case-7e81709e1587-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-e6a42250b511-002",
+    "merged": "case-7e81709e1587-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-e6a42250b511-003",
+    "merged": "case-7e81709e1587-003",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-e6a42250b511-004",
+    "merged": "case-7e81709e1587-004",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-e6a42250b511-005",
+    "merged": "case-7e81709e1587-005",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-c6dfd249bb8b-001",
+    "merged": "case-4a018909fab7-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-ade80e026f28-001",
+    "merged": "case-ae04f2f1cd29-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-e48a44db3bba-001",
+    "merged": "case-82b82ad04a36-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-6d735f0b92ac-001",
+    "merged": "case-490435fd34cf-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-91672aca067b-001",
+    "merged": "case-b60635a54726-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-64c8aea7c6da-001",
+    "merged": "case-5ec7c10afa73-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-541025f21e3e-001",
+    "merged": "case-76582c4b15f0-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-efc1df79a831-001",
+    "merged": "case-c3a19ba97158-001",
+    "similarity": 97.18
+  },
+  {
+    "primary": "case-b75e35fa5fe7-001",
+    "merged": "case-92509bdc3c58-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-d042f9215a2a-001",
+    "merged": "case-c904e449996c-001",
+    "similarity": 96.26
+  },
+  {
+    "primary": "case-bde62d5de7bc-001",
+    "merged": "case-ba6db74898ce-001",
+    "similarity": 99.78
+  },
+  {
+    "primary": "case-7600be131113-001",
+    "merged": "case-e268350f748e-001",
+    "similarity": 99.29
+  },
+  {
+    "primary": "case-2591d67bcd71-001",
+    "merged": "case-c6f8e68f5a87-001",
+    "similarity": 99.68
+  },
+  {
+    "primary": "case-e17aad8bd845-001",
+    "merged": "case-24c9bf0b0c43-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-772b79b51e63-001",
+    "merged": "case-70e50db617dd-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-be505a38ff2f-001",
+    "merged": "case-83a392c2a5e3-001",
+    "similarity": 99.53
+  },
+  {
+    "primary": "case-be505a38ff2f-002",
+    "merged": "case-83a392c2a5e3-002",
+    "similarity": 96.81
+  },
+  {
+    "primary": "case-8e97e5cd0880-001",
+    "merged": "case-75baffdbd30e-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-8e97e5cd0880-002",
+    "merged": "case-75baffdbd30e-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-8e97e5cd0880-003",
+    "merged": "case-75baffdbd30e-003",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-8e97e5cd0880-004",
+    "merged": "case-75baffdbd30e-004",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-8e97e5cd0880-005",
+    "merged": "case-75baffdbd30e-005",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-f62f2b1860ff-001",
+    "merged": "case-8aae51f62edf-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-f62f2b1860ff-002",
+    "merged": "case-8aae51f62edf-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-f62f2b1860ff-003",
+    "merged": "case-8aae51f62edf-003",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-f62f2b1860ff-004",
+    "merged": "case-8aae51f62edf-004",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-b84359ca833b-001",
+    "merged": "case-788fce48f118-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-b84359ca833b-002",
+    "merged": "case-788fce48f118-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-b84359ca833b-003",
+    "merged": "case-788fce48f118-003",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-df0cc04c21ee-001",
+    "merged": "case-226405bd86f5-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-df0cc04c21ee-002",
+    "merged": "case-226405bd86f5-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-57720c03a67b-001",
+    "merged": "case-6df1eef38734-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-57720c03a67b-002",
+    "merged": "case-6df1eef38734-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-57720c03a67b-003",
+    "merged": "case-6df1eef38734-003",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-43f4ce478fd1-001",
+    "merged": "case-f84aaa995d9e-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-679578ffb838-001",
+    "merged": "case-ae546993fd23-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-679578ffb838-002",
+    "merged": "case-ae546993fd23-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-cd2de0683cf7-001",
+    "merged": "case-3437e1295e2b-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-cd2de0683cf7-002",
+    "merged": "case-3437e1295e2b-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-cd2de0683cf7-003",
+    "merged": "case-3437e1295e2b-003",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-9c609c3a607d-001",
+    "merged": "case-3b2bc67341cf-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-9c609c3a607d-002",
+    "merged": "case-3b2bc67341cf-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-2b665bdee982-001",
+    "merged": "case-cdfe1e1e7cb5-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-2b665bdee982-002",
+    "merged": "case-cdfe1e1e7cb5-002",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-2b665bdee982-003",
+    "merged": "case-cdfe1e1e7cb5-003",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-98f778542009-001",
+    "merged": "case-d4f697b957ff-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-6fb4ff73d2d1-001",
+    "merged": "case-38de50ec9b52-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-29aa680c37a9-001",
+    "merged": "case-909cfef64790-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-5be4b504b2a0-001",
+    "merged": "case-742d605f2e72-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-cc5c810a5af6-001",
+    "merged": "case-4e0bbe2c8627-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-772c630cf2dc-001",
+    "merged": "case-fa6eca8fb9b8-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-12b706f1a60a-001",
+    "merged": "case-72b13940f3bc-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-1871cfc32a55-001",
+    "merged": "case-2163b69f08d2-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-197a62d8c7ba-001",
+    "merged": "case-b35cae24ccc8-001",
+    "similarity": 96.2
+  },
+  {
+    "primary": "case-574960f086c3-001",
+    "merged": "case-b28f44e6e7ba-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-7c0c8ea0fc22-001",
+    "merged": "case-a969f9a2f3ff-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-bc71ace4079f-001",
+    "merged": "case-c281f7796097-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-e27144f9096b-001",
+    "merged": "case-e3a3882dfa94-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-6c56a842ce6a-001",
+    "merged": "case-256f41894499-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-aceed1c4a8b7-001",
+    "merged": "case-eb0650a6e0f7-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-049ec6b03a85-001",
+    "merged": "case-1efd7570fdb2-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-5fc12380c0a7-001",
+    "merged": "case-93b219c6d45e-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-9d6547207562-001",
+    "merged": "case-6cd42ddead78-001",
+    "similarity": 100.0
+  },
+  {
+    "primary": "case-94e8bc98bb4d-001",
+    "merged": "case-8e1d91e2d5b4-001",
+    "similarity": 99.74
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "exam-cd2de0683cf7",
+  "title": "08.精题必练第八章",
+  "duration_minutes": 120,
+  "question_ids": [
+    "case-cd2de0683cf7-001",
+    "case-cd2de0683cf7-002",
+    "case-cd2de0683cf7-003"
+  ],
+  "source": {
+    "source_id": "cd2de0683cf7",
+    "file_name": "08.精题必练第八章.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

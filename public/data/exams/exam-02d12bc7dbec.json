@@ -1,0 +1,21 @@
+{
+  "id": "exam-02d12bc7dbec",
+  "title": "JG-咨询实务-万人模考",
+  "duration_minutes": 120,
+  "question_ids": [
+    "case-02d12bc7dbec-001"
+  ],
+  "source": {
+    "source_id": "02d12bc7dbec",
+    "file_name": "JG-咨询实务-万人模考.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

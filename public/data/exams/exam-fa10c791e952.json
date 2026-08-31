@@ -1,0 +1,29 @@
+{
+  "id": "exam-fa10c791e952",
+  "title": "HQ-咨询实务-万人模考卷",
+  "duration_minutes": 180,
+  "question_ids": [
+    "case-fa10c791e952-001"
+  ],
+  "source": {
+    "source_id": "fa10c791e952",
+    "file_name": "HQ-咨询实务-万人模考卷.pdf",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+}

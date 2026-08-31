@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+from collections import defaultdict
 from difflib import SequenceMatcher
 
 from .models import CaseQuestion
@@ -29,14 +30,39 @@ def merge_case(primary: CaseQuestion, duplicate: CaseQuestion) -> CaseQuestion:
 
 def merge_duplicates(cases: list[CaseQuestion], threshold: float = 94) -> tuple[list[CaseQuestion], list[dict[str, object]]]:
     kept: list[CaseQuestion] = []
+    kept_fingerprints: list[str] = []
+    exact_index: dict[str, int] = {}
+    chapter_index: dict[str, list[int]] = defaultdict(list)
     groups: list[dict[str, object]] = []
     for case in cases:
-        match = next((existing for existing in kept if fingerprint(existing) == fingerprint(case)), None)
-        if match is None:
-            match = next((existing for existing in kept if SequenceMatcher(None, fingerprint(existing), fingerprint(case)).ratio() * 100 >= threshold), None)
-        if match is None:
+        current_fingerprint = fingerprint(case)
+        match_index = exact_index.get(current_fingerprint)
+        if match_index is None:
+            # Duplicate cases almost always share a chapter. Restrict fuzzy
+            # comparisons to that bucket and apply cheap length/multiset
+            # bounds before the expensive SequenceMatcher ratio call.
+            for candidate_index in chapter_index.get(case.chapter_id, []):
+                candidate_fingerprint = kept_fingerprints[candidate_index]
+                max_length = max(len(candidate_fingerprint), len(current_fingerprint))
+                min_length = min(len(candidate_fingerprint), len(current_fingerprint))
+                if not max_length or (2 * min_length / max_length * 100) < threshold:
+                    continue
+                matcher = SequenceMatcher(None, candidate_fingerprint, current_fingerprint)
+                if matcher.quick_ratio() * 100 < threshold:
+                    continue
+                if matcher.ratio() * 100 >= threshold:
+                    match_index = candidate_index
+                    break
+        if match_index is None:
             kept.append(case)
+            kept_fingerprints.append(current_fingerprint)
+            match_index = len(kept) - 1
+            chapter_index[case.chapter_id].append(match_index)
+            exact_index[current_fingerprint] = match_index
             continue
+        match = kept[match_index]
+        similarity = 100.0 if kept_fingerprints[match_index] == current_fingerprint else round(SequenceMatcher(None, kept_fingerprints[match_index], current_fingerprint).ratio() * 100, 2)
         merge_case(match, case)
-        groups.append({"primary": match.id, "merged": case.id, "similarity": round(SequenceMatcher(None, fingerprint(match), fingerprint(case)).ratio() * 100, 2)})
+        exact_index[current_fingerprint] = match_index
+        groups.append({"primary": match.id, "merged": case.id, "similarity": similarity})
     return kept, groups
