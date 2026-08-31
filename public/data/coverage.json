@@ -1,25 +1,25 @@
 {
-  "source_count": 119,
-  "source_pages": 1803,
-  "processed_source_count": 119,
-  "parsed_case_count": 153,
-  "published_case_count": 109,
-  "subquestion_count": 752,
-  "duplicate_group_count": 44,
+  "source_count": 87,
+  "source_pages": 1083,
+  "processed_source_count": 87,
+  "parsed_case_count": 85,
+  "published_case_count": 85,
+  "subquestion_count": 267,
+  "duplicate_group_count": 0,
   "review_item_count": 0,
   "source_failures": [],
   "chapter_counts": {
-    "1": 14,
-    "2": 18,
+    "1": 9,
+    "2": 11,
     "3": 11,
-    "4": 6,
-    "5": 10,
+    "4": 5,
+    "5": 15,
     "6": 2,
-    "7": 8,
-    "8": 10,
-    "9": 10,
-    "10": 10,
-    "11": 10
+    "7": 11,
+    "8": 6,
+    "9": 7,
+    "10": 4,
+    "11": 4
   },
-  "exam_count": 18
+  "exam_count": 11
 }

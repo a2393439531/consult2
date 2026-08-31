@@ -5,13 +5,13 @@
       "id": "1",
       "number": 1,
       "title": "现代工程咨询方法",
-      "count": 14
+      "count": 9
     },
     {
       "id": "2",
       "number": 2,
       "title": "规划咨询的主要理论与方法",
-      "count": 18
+      "count": 11
     },
     {
       "id": "3",
@@ -23,13 +23,13 @@
       "id": "4",
       "number": 4,
       "title": "战略分析",
-      "count": 6
+      "count": 5
     },
     {
       "id": "5",
       "number": 5,
       "title": "市场分析",
-      "count": 10
+      "count": 15
     },
     {
       "id": "6",
@@ -41,44 +41,44 @@
       "id": "7",
       "number": 7,
       "title": "现金流量分析",
-      "count": 8
+      "count": 11
     },
     {
       "id": "8",
       "number": 8,
       "title": "工程项目投资估算",
-      "count": 10
+      "count": 6
     },
     {
       "id": "9",
       "number": 9,
       "title": "融资方案分析",
-      "count": 10
+      "count": 7
     },
     {
       "id": "10",
       "number": 10,
       "title": "工程项目财务分析",
-      "count": 10
+      "count": 4
     },
     {
       "id": "11",
       "number": 11,
       "title": "工程项目经济分析",
-      "count": 10
+      "count": 4
     }
   ],
   "exams": [
     {
-      "id": "exam-2825fbd3c7d4",
-      "title": "06.21年真题解析（一）",
-      "duration_minutes": 180,
+      "id": "exam-3539ccfa74f5",
+      "title": "HQ-咨询实务-万人模考卷",
+      "duration_minutes": 120,
       "question_ids": [
-        "case-2825fbd3c7d4-001"
+        "case-3539ccfa74f5-001"
       ],
       "source": {
-        "source_id": "2825fbd3c7d4",
-        "file_name": "06.21年真题解析（一）.pdf",
+        "source_id": "3539ccfa74f5",
+        "file_name": "HQ-咨询实务-万人模考卷.pdf",
         "pages": [
           1,
           2,
@@ -86,55 +86,28 @@
           4,
           5,
           6,
-          7
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
         ]
       }
     },
     {
-      "id": "exam-33bd2a631a98",
-      "title": "07.21年真题解析（二）",
+      "id": "exam-84b54296fec7",
+      "title": "川杨学堂2026咨询工程师-实务测试题第一章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-33bd2a631a98-001"
+        "case-84b54296fec7-001"
       ],
       "source": {
-        "source_id": "33bd2a631a98",
-        "file_name": "07.21年真题解析（二）.pdf",
-        "pages": [
-          1,
-          2,
-          3,
-          4
-        ]
-      }
-    },
-    {
-      "id": "exam-7fca04b18beb",
-      "title": "08.21年真题解析（三）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-7fca04b18beb-001"
-      ],
-      "source": {
-        "source_id": "7fca04b18beb",
-        "file_name": "08.21年真题解析（三）.pdf",
-        "pages": [
-          1,
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "id": "exam-a11f3ae3163f",
-      "title": "09.22年真题解析（一）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-a11f3ae3163f-001"
-      ],
-      "source": {
-        "source_id": "a11f3ae3163f",
-        "file_name": "09.22年真题解析（一）.pdf",
+        "source_id": "84b54296fec7",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第一章（带参考答案）.pdf",
         "pages": [
           1,
           2,
@@ -145,230 +118,35 @@
       }
     },
     {
-      "id": "exam-7675344a56d0",
-      "title": "10.22年真题解析（二）",
+      "id": "exam-551efb3d5d4e",
+      "title": "川杨学堂2026咨询工程师-实务测试题第七、八章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-7675344a56d0-001"
+        "case-551efb3d5d4e-001"
       ],
       "source": {
-        "source_id": "7675344a56d0",
-        "file_name": "10.22年真题解析（二）.pdf",
-        "pages": [
-          1,
-          2,
-          3,
-          4
-        ]
-      }
-    },
-    {
-      "id": "exam-c7d80ea96415",
-      "title": "11.22年真题解析（三）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-c7d80ea96415-001"
-      ],
-      "source": {
-        "source_id": "c7d80ea96415",
-        "file_name": "11.22年真题解析（三）.pdf",
-        "pages": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "id": "exam-679a151c3f33",
-      "title": "12.22年真题解析（四）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-679a151c3f33-001"
-      ],
-      "source": {
-        "source_id": "679a151c3f33",
-        "file_name": "12.22年真题解析（四）.pdf",
-        "pages": [
-          1,
-          2,
-          3,
-          4
-        ]
-      }
-    },
-    {
-      "id": "exam-594776feedbe",
-      "title": "13.23年真题解析（一）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-594776feedbe-001"
-      ],
-      "source": {
-        "source_id": "594776feedbe",
-        "file_name": "13.23年真题解析（一）.pdf",
-        "pages": [
-          1,
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "id": "exam-204b7cb0d696",
-      "title": "14.23年真题解析（二）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-204b7cb0d696-001"
-      ],
-      "source": {
-        "source_id": "204b7cb0d696",
-        "file_name": "14.23年真题解析（二）.pdf",
-        "pages": [
-          1,
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "id": "exam-c13cf19f8407",
-      "title": "15.23年真题解析（三）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-c13cf19f8407-001"
-      ],
-      "source": {
-        "source_id": "c13cf19f8407",
-        "file_name": "15.23年真题解析（三）.pdf",
-        "pages": [
-          1,
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "id": "exam-a6e305a20ede",
-      "title": "19.25年真题解析（一）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-a6e305a20ede-001"
-      ],
-      "source": {
-        "source_id": "a6e305a20ede",
-        "file_name": "19.25年真题解析（一）.pdf",
-        "pages": [
-          1,
-          2,
-          3,
-          4
-        ]
-      }
-    },
-    {
-      "id": "exam-5ff4cbd86c00",
-      "title": "20.25年真题解析（二）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-5ff4cbd86c00-001"
-      ],
-      "source": {
-        "source_id": "5ff4cbd86c00",
-        "file_name": "20.25年真题解析（二）.pdf",
-        "pages": [
-          1,
-          2,
-          3,
-          4
-        ]
-      }
-    },
-    {
-      "id": "exam-150c80a528c9",
-      "title": "21.25年真题解析（三）",
-      "duration_minutes": 180,
-      "question_ids": [
-        "case-150c80a528c9-001"
-      ],
-      "source": {
-        "source_id": "150c80a528c9",
-        "file_name": "21.25年真题解析（三）.pdf",
-        "pages": [
-          1,
-          2,
-          3,
-          4
-        ]
-      }
-    },
-    {
-      "id": "exam-56356f48fb6c",
-      "title": "02.第1讲-万人模考解析（一）",
-      "duration_minutes": 120,
-      "question_ids": [
-        "case-56356f48fb6c-001"
-      ],
-      "source": {
-        "source_id": "56356f48fb6c",
-        "file_name": "02.第1讲-万人模考解析（一）.pdf",
+        "source_id": "551efb3d5d4e",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第七、八章（带参考答案）.pdf",
         "pages": [
           1,
           2,
           3,
           4,
           5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          6
         ]
       }
     },
     {
-      "id": "exam-f2b8e01f7794",
-      "title": "第1讲-万人模考解析（一）",
-      "duration_minutes": 120,
+      "id": "exam-1dc3fe6a62dc",
+      "title": "川杨学堂2026咨询工程师-实务测试题第三、四章（带参考答案）",
+      "duration_minutes": 180,
       "question_ids": [
-        "case-56356f48fb6c-001"
+        "case-1dc3fe6a62dc-001"
       ],
       "source": {
-        "source_id": "f2b8e01f7794",
-        "file_name": "第1讲-万人模考解析（一）.pdf",
-        "pages": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
-        ]
-      }
-    },
-    {
-      "id": "exam-bb70e8857792",
-      "title": "JG-咨询实务-万人模考",
-      "duration_minutes": 120,
-      "question_ids": [
-        "case-bb70e8857792-001"
-      ],
-      "source": {
-        "source_id": "bb70e8857792",
-        "file_name": "JG-咨询实务-万人模考.pdf",
+        "source_id": "1dc3fe6a62dc",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第三、四章（带参考答案）.pdf",
         "pages": [
           1,
           2,
@@ -381,15 +159,54 @@
       }
     },
     {
-      "id": "exam-ea50899b3159",
-      "title": "2026咨询工程师《方法与实务》考前集训-试卷【下载打印】",
+      "id": "exam-4a84c9e62199",
+      "title": "川杨学堂2026咨询工程师-实务测试题第九章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-ea50899b3159-001"
+        "case-4a84c9e62199-001"
       ],
       "source": {
-        "source_id": "ea50899b3159",
-        "file_name": "2026咨询工程师《方法与实务》考前集训-试卷【下载打印】.pdf",
+        "source_id": "4a84c9e62199",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第九章（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "exam-2711bb75db65",
+      "title": "川杨学堂2026咨询工程师-实务测试题第二章（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-2711bb75db65-001"
+      ],
+      "source": {
+        "source_id": "2711bb75db65",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第二章（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "exam-2eabc438bb90",
+      "title": "川杨学堂2026咨询工程师-实务测试题第五、六章（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-2eabc438bb90-001"
+      ],
+      "source": {
+        "source_id": "2eabc438bb90",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第五、六章（带参考答案）.pdf",
         "pages": [
           1,
           2,
@@ -402,15 +219,79 @@
       }
     },
     {
-      "id": "exam-b2abd5f65e84",
-      "title": "01.第1讲-临考点睛解析（一）",
+      "id": "exam-47dda1e8243b",
+      "title": "川杨学堂2026咨询工程师-实务测试题第十、十一章（带参考答案）",
       "duration_minutes": 180,
       "question_ids": [
-        "case-b2abd5f65e84-001"
+        "case-47dda1e8243b-001"
       ],
       "source": {
-        "source_id": "b2abd5f65e84",
-        "file_name": "01.第1讲-临考点睛解析（一）.pdf",
+        "source_id": "47dda1e8243b",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题第十、十一章（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-bc7096e6e599",
+      "title": "CY-咨询实务-测试题-全真模拟考试三（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-bc7096e6e599-001"
+      ],
+      "source": {
+        "source_id": "bc7096e6e599",
+        "file_name": "CY-咨询实务-测试题-全真模拟考试三（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "exam-3cf13b92a94e",
+      "title": "川杨学堂2026咨询工程师-实务测试题-全真模拟考试一（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-3cf13b92a94e-001"
+      ],
+      "source": {
+        "source_id": "3cf13b92a94e",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题-全真模拟考试一（带参考答案）.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "exam-5d64f0500047",
+      "title": "川杨学堂2026咨询工程师-实务测试题-全真模拟考试二（带参考答案）",
+      "duration_minutes": 180,
+      "question_ids": [
+        "case-5d64f0500047-001"
+      ],
+      "source": {
+        "source_id": "5d64f0500047",
+        "file_name": "川杨学堂2026咨询工程师-实务测试题-全真模拟考试二（带参考答案）.pdf",
         "pages": [
           1,
           2,
@@ -420,45 +301,34 @@
           6,
           7,
           8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
+          9
         ]
       }
     }
   ],
   "totals": {
-    "source_count": 119,
-    "source_pages": 1803,
-    "processed_source_count": 119,
-    "parsed_case_count": 153,
-    "published_case_count": 109,
-    "subquestion_count": 752,
-    "duplicate_group_count": 44,
+    "source_count": 87,
+    "source_pages": 1083,
+    "processed_source_count": 87,
+    "parsed_case_count": 85,
+    "published_case_count": 85,
+    "subquestion_count": 267,
+    "duplicate_group_count": 0,
     "review_item_count": 0,
     "source_failures": [],
     "chapter_counts": {
-      "1": 14,
-      "2": 18,
+      "1": 9,
+      "2": 11,
       "3": 11,
-      "4": 6,
-      "5": 10,
+      "4": 5,
+      "5": 15,
       "6": 2,
-      "7": 8,
-      "8": 10,
-      "9": 10,
-      "10": 10,
-      "11": 10
+      "7": 11,
+      "8": 6,
+      "9": 7,
+      "10": 4,
+      "11": 4
     },
-    "exam_count": 18
+    "exam_count": 11
   }
 }

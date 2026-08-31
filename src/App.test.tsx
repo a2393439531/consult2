@@ -6,5 +6,5 @@ vi.mock('./data/manifest', () => ({ loadManifest: vi.fn().mockResolvedValue({ ve
 
 test('renders the study-site identity', async () => {
   render(<App />)
-  expect(await screen.findByText('2026 咨询实务题库', { selector: 'strong' })).toBeInTheDocument()
+  expect(await screen.findByText('2026 咨询实务·精华资料', { selector: 'strong' })).toBeInTheDocument()
 })

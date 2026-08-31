@@ -1,1072 +1,784 @@
 [
   {
-    "id": "658803430f76",
-    "relative_path": "01-2026年咨询实务-优路教育-甄题详解班-刘老师/讲义/2026咨询甄题详解《方法与实务》在线版.pdf",
-    "sha256": "252b39901006a09376c6f6f35ca32bd7f703dc30b55c7859891f931d8bed752a",
-    "pages": 163,
-    "size_bytes": 5448501,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "31e36ff3bbb0",
-    "relative_path": "01-2026年咨询实务-优路教育-甄题详解班-刘老师/讲义/2026咨询甄题详解《方法与实务》打印版.pdf",
-    "sha256": "328d3bca84788a573e1f08ab54729cf255de9b1a7066ce788c03b5cd3c2d02e6",
-    "pages": 43,
-    "size_bytes": 2609962,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "23ec4ae7a582",
-    "relative_path": "02-2026年咨询实务-中大网校-习题解析班-张洁函/01.26《现代咨询方法与实务》习题特训.mp4.pdf",
-    "sha256": "825cfaac638b0d1c6183eb3d2a2cfc76493950b386bee858f99c974e0636c4a3",
-    "pages": 93,
-    "size_bytes": 5583879,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "2825fbd3c7d4",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/06.21年真题解析（一）.pdf",
-    "sha256": "a3d53dfa3611b62497ed068fcfb9346abce7197e16b8a3abc18d525d6625f89a",
-    "pages": 7,
-    "size_bytes": 459513,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "33bd2a631a98",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/07.21年真题解析（二）.pdf",
-    "sha256": "ba2ff46bb359706caf2364cd6958721614abe8eb524f03bcc01f89e1f0d75c8c",
-    "pages": 4,
-    "size_bytes": 303113,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "7fca04b18beb",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/08.21年真题解析（三）.pdf",
-    "sha256": "ee009b981885473a45901bcf375d6e91eb81cbfa72749cde3357f9c00f8da14b",
-    "pages": 3,
-    "size_bytes": 267598,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "a11f3ae3163f",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/09.22年真题解析（一）.pdf",
-    "sha256": "9806a253375c069f7ab322de8cfaa255115eb5e9bd85cdad9e94cd8343181fc2",
-    "pages": 5,
-    "size_bytes": 334134,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "7675344a56d0",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/10.22年真题解析（二）.pdf",
-    "sha256": "5332154e6128a5171e56a03ef5012e5472a7974e877b6971628cef1abf522869",
-    "pages": 4,
-    "size_bytes": 458603,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "c7d80ea96415",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/11.22年真题解析（三）.pdf",
-    "sha256": "371900cba52af7deed8dde567c6dc929e3aa106e3fb4be789e693788ffccea8f",
-    "pages": 2,
-    "size_bytes": 258135,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "679a151c3f33",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/12.22年真题解析（四）.pdf",
-    "sha256": "91c4acc192f242d6ebf0c0015ee8d1c7765739974d263234b546038a7531722e",
-    "pages": 4,
-    "size_bytes": 397429,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "594776feedbe",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/13.23年真题解析（一）.pdf",
-    "sha256": "028f2d896fcf0ac4ef7e21ac7b4b875c2f8ce39ffe94e6716e506263ac2b90f3",
-    "pages": 3,
-    "size_bytes": 277244,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "204b7cb0d696",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/14.23年真题解析（二）.pdf",
-    "sha256": "ccb327f69b5ca7f29153ea591372046118016c0b989276445da476eedf97e766",
-    "pages": 3,
-    "size_bytes": 307750,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "c13cf19f8407",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/15.23年真题解析（三）.pdf",
-    "sha256": "ec74ca9da5a3e705c62b6edbd39327eba89e734608a3cc664683640e2f84093f",
-    "pages": 3,
-    "size_bytes": 310316,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "a6e305a20ede",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/19.25年真题解析（一）.pdf",
-    "sha256": "166a0aa6d5df6c7b1adf2d07438dc0c60cf22cad37ff509220dd3f603cf2e37c",
-    "pages": 4,
-    "size_bytes": 696518,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "5ff4cbd86c00",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/20.25年真题解析（二）.pdf",
-    "sha256": "56f60456815faeb124e21a5d3cde6fec2d27bdadbe6daacfaa15f3a7535e4323",
-    "pages": 4,
-    "size_bytes": 647513,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "150c80a528c9",
-    "relative_path": "03-2026年咨询实务-环球网校-真题解析班-张宝奎/讲义/21.25年真题解析（三）.pdf",
-    "sha256": "3f257bb0c1a9465fe5821710fe397a71e86a8528a52ea1fab26467f207159988",
-    "pages": 4,
-    "size_bytes": 434177,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "32c61e77a9d4",
-    "relative_path": "04-2026年咨询实务-中大网校-真题解析班-名师/2024/讲义/01.真题解析（1）.mp4.pdf",
-    "sha256": "d15f97a305bd0a4c8ed6a985560ed9b7ebb4dde34f2fc7bbf49e94216d829e41",
-    "pages": 7,
-    "size_bytes": 417259,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "78bea9ada110",
-    "relative_path": "04-2026年咨询实务-中大网校-真题解析班-名师/2024/讲义/02.真题解析（2）.mp4.pdf",
-    "sha256": "3a2a5b2818b452a180a4d0a3c062728c5d28be0e5eca2f5b857114b1b38c94c7",
-    "pages": 12,
-    "size_bytes": 736635,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "ac070cf4ad40",
-    "relative_path": "04-2026年咨询实务-中大网校-真题解析班-名师/2024/讲义/03.真题解析（3）.mp4.pdf",
-    "sha256": "e55f5ed1c651f54d12b05ecc989406d3bc9c5db40b40f5650c4d8b97346611dd",
-    "pages": 15,
-    "size_bytes": 909062,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "fa566222480f",
-    "relative_path": "04-2026年咨询实务-中大网校-真题解析班-名师/2024/讲义/04.真题解析（4）.mp4.pdf",
-    "sha256": "05535993991ccb22e662e0c2570428ed8f4c3e13fa762f1ec241c97d3167e426",
-    "pages": 6,
-    "size_bytes": 368178,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "1d6388e72303",
-    "relative_path": "04-2026年咨询实务-中大网校-真题解析班-名师/2025/01.26《现代咨询方法与实务》真题解析.mp4.pdf",
-    "sha256": "a8f3273d57f72cc1a991b4ed2d7853d9cfdb03d009d9b612492d19d32cf41d7d",
-    "pages": 23,
-    "size_bytes": 1890772,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "021fed51a097",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/01-题型模块一、宏观分析（一）.pdf",
-    "sha256": "7d642058f88423d6ee07c60b5486b1fcb3d0276da59fbb3b47db0a6abe677691",
-    "pages": 3,
-    "size_bytes": 671531,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "c70a71725b55",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/02-题型模块一、宏观分析（二）.pdf",
-    "sha256": "05619b4cc500036fc76a011e8e24aa9ab7b4b5e8a3bf04a37fdbc733f586f13a",
-    "pages": 3,
-    "size_bytes": 558087,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "b32d0b81be84",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/03-题型模块二、企业战略.pdf",
-    "sha256": "e015682b7493e8c47f201e84edbf53b18e4a0da27acb1dbf949b89da809df3d9",
-    "pages": 5,
-    "size_bytes": 623881,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "938ac1491536",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/04-题型模块三、投资估算.pdf",
-    "sha256": "3277ff82fc65800311b9c02fe4572bd9530c5869619a5cb4e7de9504dc653f64",
-    "pages": 4,
-    "size_bytes": 556972,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "474a02074724",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/05-题型模块四、融资分析（一）.pdf",
-    "sha256": "cfc4ac7ad0dd720e05a3b9adfc1fe84c38b616a3b7d2b412bd078ce433a161d5",
-    "pages": 2,
-    "size_bytes": 529968,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "7cbcf2188078",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/06-题型模块四、融资分析（二）.pdf",
-    "sha256": "8c8329a8b06ad105689014fa5bc38d59edde35a449a9e4b1fd35bbc82d0d2c1c",
-    "pages": 3,
-    "size_bytes": 568862,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "86b20ba27b24",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/07-题型模块五、财务分析（一）.pdf",
-    "sha256": "3be4b82ceef14bbdd6043501eb044c017ca04f14efebff505d331afc66fee428",
-    "pages": 2,
-    "size_bytes": 522792,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "e55d8b35d610",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/08-题型模块五、财务分析（二）.pdf",
-    "sha256": "b0761eebd9013a89cb926d47bf18041316111cc0e04e5f426e318d38010b18b5",
-    "pages": 2,
-    "size_bytes": 525896,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "b765db1629e2",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/09-题型模块五、财务分析（三）.pdf",
-    "sha256": "ca6c8785b18fedd96b7c6f1f04859b07c36dce51beeb512e21c7ded62f6ee9ca",
-    "pages": 3,
-    "size_bytes": 544480,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "39c9d152a704",
-    "relative_path": "05-2026年咨询实务-天一网校-强化母题带练-李志成/讲义/10-题型模块六、经济分析.pdf",
-    "sha256": "bb47e4ff718fe6fe954b77b53b2c99adc9a279cabae03667f0e69f4837373fce",
-    "pages": 3,
-    "size_bytes": 544436,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "8d0ccfd06c62",
-    "relative_path": "06-2026年咨询实务-建工网校-习题解析班-林轩/讲义/第一模块　现代咨询理论方法及其基本应用.pdf",
-    "sha256": "221e64a7c520e5d73b04a6e9b856d4823367270ad40614a50113ebc46361f475",
-    "pages": 30,
-    "size_bytes": 1245415,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "68cf2e445a30",
-    "relative_path": "06-2026年咨询实务-建工网校-习题解析班-林轩/讲义/第二模块　投资、融资及财务经济分析.pdf",
-    "sha256": "3c95c04e7218651843e4a0776c9ae2569e88e70d6395c2d254520b1b52759c98",
-    "pages": 26,
-    "size_bytes": 996726,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "875147ed5e7d",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/01.精题必练第一章.pdf",
-    "sha256": "ebfeb08758a95105bc864e529ae7cbbfb51cdaeb13e4a27190f051afc45b84e8",
-    "pages": 4,
-    "size_bytes": 542377,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "bcbbaadf40db",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/02.精题必练第二章.pdf",
-    "sha256": "1c3978d800b68f5b26990face6a7bf13ebb2fe1ac189e56656752b996e265c4f",
-    "pages": 5,
-    "size_bytes": 580423,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "d2894801ed17",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/03.精题必练第三章.pdf",
-    "sha256": "97a4912838c620be585a7ad3ebff257a61300b85b930aad7704b66a76225c3cb",
-    "pages": 4,
-    "size_bytes": 601000,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "ce3098fc9233",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/04.精题必练第四章.pdf",
-    "sha256": "2b3033725a1e17bbd24135af5fac86ca69b23128995b41d2c218440e51a0150f",
-    "pages": 6,
-    "size_bytes": 720279,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "205956eb2aba",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/05.精题必练第五章.pdf",
-    "sha256": "547045cfd889d045b673b43cfa41b247fd7fb35ec812e61e6887675ea725348e",
-    "pages": 4,
-    "size_bytes": 478956,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "fc011c7d296b",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/06.精题必练第六章.pdf",
-    "sha256": "fc6a01fef5df92b5893f7c9a9146b287854d7828436d6a37b784809d5f43806a",
-    "pages": 1,
-    "size_bytes": 386209,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "4d8210f88f1e",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/07.精题必练第七章.pdf",
-    "sha256": "637004696c91069ca9fc7c133d82b92de86aeade52cd1001dcb73803e9980987",
-    "pages": 4,
-    "size_bytes": 442903,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "dab7c95be537",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/08.精题必练第八章.pdf",
-    "sha256": "34ae5a0cea56963c8c9ef6b1d93e700e3b80b63f3f5a25851de871486d5b0535",
-    "pages": 4,
-    "size_bytes": 645312,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "c7fff5032f7d",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/09.精题必练第九章.pdf",
-    "sha256": "db7427fbfdd2515acb53c6b1328b1c8a8374f1de106829706920ddc8eae6dcf3",
-    "pages": 5,
-    "size_bytes": 721294,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "9bae37bf0afa",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/10.精题必练第十章.pdf",
-    "sha256": "d71ab0e4ba43802484cc7c53aa727a12e7ee8d3b4d8b9c6443a5f9c4cc6f8ac5",
-    "pages": 5,
-    "size_bytes": 613645,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "6457d7a03979",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_01.精题必练第一章.pdf",
-    "sha256": "02b1f876b1dfd5dcd1acc577f14f62bf3c2d5b016a545701ad632d5729fe6cf6",
-    "pages": 4,
-    "size_bytes": 579735,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "f26e5b414afc",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_02.精题必练第二章.pdf",
-    "sha256": "eb1a5d927b10ddc11139ad042cd87a30e3e2065957da6689326a1b3068a13c17",
-    "pages": 5,
-    "size_bytes": 660239,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "83365d58c41d",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_03.精题必练第三章.pdf",
-    "sha256": "4cbccbc70a17e2c3413b548e08b924f0b35f4512e3e106337806bd2c566b3913",
-    "pages": 4,
-    "size_bytes": 671243,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "77de3c116107",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_04.精题必练第四章.pdf",
-    "sha256": "f92be22d3b1ef4b49736434a781c651724f5e6749decc12b99020dfe336e7f4b",
-    "pages": 6,
-    "size_bytes": 949080,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "35c517194021",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_05.精题必练第五章.pdf",
-    "sha256": "9f08a1148bfc3a21cb10db7250f4401c238778850b149e68de4cc73e964ded46",
-    "pages": 4,
-    "size_bytes": 563675,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "886c3e869a92",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_06.精题必练第六章.pdf",
-    "sha256": "3a70068ed7e9130a69a25b0f900a95d307ccebad2d1080a9d9cc5763a11a65db",
-    "pages": 1,
-    "size_bytes": 389704,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "b7923289c10c",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_07.精题必练第七章.pdf",
-    "sha256": "783584e5a375904a306f2810e95e2d043940f94f0f8e1090e5be804f9ea1155a",
-    "pages": 4,
-    "size_bytes": 502863,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "8c656a82cfbc",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_08.精题必练第八章.pdf",
-    "sha256": "c97ab46605bb14d0c6651807dc8764dbe3c7eef4ed949edecd5e8ba25be92207",
-    "pages": 4,
-    "size_bytes": 709503,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "efc0f9b01692",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_09.精题必练第九章.pdf",
-    "sha256": "23e2dfc63acfa6f16ecefa13b34348472b15943fff822110f164be96bed41184",
-    "pages": 5,
-    "size_bytes": 786254,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "d6a477ae427a",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_10.精题必练第十章.pdf",
-    "sha256": "07ef095126ef01b371abd036465ba51377cb25d5edf519856289e7754c49e88d",
-    "pages": 5,
-    "size_bytes": 709386,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "cc0dde18dd46",
-    "relative_path": "07-2026年咨询实务-环球网校-精题必练班-张宝奎/讲义/Removed_11.精题必练第十一章.pdf",
-    "sha256": "9bf1a08f1ea6835388545659344203ea6fe0e39f6cacb922f6bfe22f4b9e3745",
-    "pages": 5,
-    "size_bytes": 645999,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "56356f48fb6c",
-    "relative_path": "08-2026年咨询实务-环球网校-万人模考班-张宝奎/02.第1讲-万人模考解析（一）.pdf",
-    "sha256": "213bef8140622669bfa1245be43a5950295988e9eda43f4eea98fdfe80e0bc38",
-    "pages": 15,
-    "size_bytes": 1403260,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "f2b8e01f7794",
-    "relative_path": "08-2026年咨询实务-环球网校-万人模考班-张宝奎/第1讲-万人模考解析（一）.pdf",
-    "sha256": "4d4b55909abc892c9fd7b5912abe414bfb8af74ca8624c7297b40e9f45d98a3f",
-    "pages": 15,
-    "size_bytes": 1403260,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "4f33af0f4f6f",
-    "relative_path": "10-2026年咨询实务-神秘人-重点习题解析-川杨/川杨学堂2026咨询工程师-实务测试题第十、十一章（带参考答案）.pdf",
-    "sha256": "48e997a69b8cef072ca97ed1788359760519f96bbfadebe7fd5b9dd101560a15",
-    "pages": 7,
-    "size_bytes": 437879,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "bb70e8857792",
-    "relative_path": "11-2026年咨询实务-建工网校-万人模考+模考密钥-林轩/JG-咨询实务-万人模考.pdf",
-    "sha256": "e7ac1443efca26ff83fe8b43375ffdd4b344c587ffdb39abbef7b6106e10c19a",
-    "pages": 7,
-    "size_bytes": 669542,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "366aa67a62bc",
-    "relative_path": "11-2026年咨询实务-建工网校-万人模考+模考密钥-林轩/课件.pdf",
-    "sha256": "f188d84d57471de89ad7b7d483595bee946af5b92657df72784fec29c38b5254",
-    "pages": 328,
-    "size_bytes": 12054518,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "b5697ceaa723",
-    "relative_path": "12-2026年咨询实务-环球网校-查缺补漏卷-张宝魁【推荐】/讲义.pdf",
-    "sha256": "e06a1f960eb9baf89e2197799b57d139d0ad45879af4f8f6eb99bcaa078131d7",
-    "pages": 21,
-    "size_bytes": 1522137,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "f0aba2689426",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/01-第一章-考点1-逻辑框架法.pdf",
-    "sha256": "2144ecd32edf10a83672314d6946ad11163aad99ab823779ae665593cc5681b9",
-    "pages": 2,
-    "size_bytes": 582340,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "59741ba1f09d",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/02-第一章-考点2-层级分析法-考点5-现代工程咨询信息.pdf",
-    "sha256": "3b145ed652378bfcd4faaf466c381560073df7d7bfb3e346f46b4382e72d40fe",
-    "pages": 3,
-    "size_bytes": 644234,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "58766b75f9ab",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/03-第二章-考点1-人口与产业集聚程度的衡量-考点3-工业化发展阶段.pdf",
-    "sha256": "edaad3b9a4fd5e8e2b633e51d417a96618535b70efd31a0c30bd1db64c6a8ecc",
-    "pages": 3,
-    "size_bytes": 1704090,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "08df2bb2d618",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/04-第二章-考点4-城镇化发展阶段-考点7-规划评估.pdf",
-    "sha256": "493fc60eb8987e64e6ed0f9dec71e3ff47985adf76037029cbbe8bb46b031241",
-    "pages": 3,
-    "size_bytes": 801756,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "5a48e0ef5681",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/05-第三章-考点1-能耗双控与碳排放双控-考点3-生态环境承载力综合评价法.pdf",
-    "sha256": "9296b66f58e9d935cf60951aaa3ec538db4c691d554a7aff7020cd28a44c0838",
-    "pages": 3,
-    "size_bytes": 1655846,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "b15d541970c4",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/06-第四章-考点1-市场战略-考点7-对标分析.pdf",
-    "sha256": "c96b2519cebff0b92224aec9d7ebbedbb881b10b0b80f49d49b3ce4428f4b00e",
-    "pages": 5,
-    "size_bytes": 1924415,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "137f50c673b0",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/07-第五章-考点1-市场预测方法选用-考点4-指数平滑法.pdf",
-    "sha256": "c50c9a2aa3c4f94dd7a853c1ee2bf80d0d6f09e36c2b36a38164f73d1d370466",
-    "pages": 2,
-    "size_bytes": 645653,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "4341810474a3",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/08-第六章-考点1-重大项目谋划的理论基础-考点4-重大项目谋划成.pdf",
-    "sha256": "feddd4296a796c5aa73264f41b0da96b50d69dc40c6acab5143544021831d19d",
-    "pages": 2,
-    "size_bytes": 730227,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "e59f70d4e4c6",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/09-第七章-考点1-现金流量分析指标计算-考点2-基准收益率的测算与选取.pdf",
-    "sha256": "a67bcd1956bc4db93e87833bca5449caf6a37cb7b90d315bcbc7d32acbf2001d",
-    "pages": 3,
-    "size_bytes": 1656129,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "5eeab807e783",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/10-第八章-考点1-建设投资简单估算法.pdf",
-    "sha256": "9e7ac30b4aed5168ecca83ec8d483e4be8188fdfc5d0dbe98e54de29fe7df026",
-    "pages": 2,
-    "size_bytes": 1649197,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "05a9bb7feae3",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/11-第八章-考点2-建设投资分类估算法.pdf",
-    "sha256": "a4a3a9eb56734026f82efdc223deaa87881092265dd0e501375633d2bd8f967b",
-    "pages": 2,
-    "size_bytes": 1518605,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "275a05db57cd",
-    "relative_path": "01-2026年咨询实务-天一网校-冲刺串讲班-李志成/讲义/12-第八章-考点3-建设期融资费用的估算方法-考点4-流动资金估算.pdf",
-    "sha256": "a9841044b21bb830e4c31d0a2de802f1a5121f3403428764a0aac5704236dbff",
-    "pages": 2,
-    "size_bytes": 1509641,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "9e8c56aee761",
-    "relative_path": "02-2026年咨询实务-中大网校-模拟预测卷-张洁函/26咨询《现代咨询方法与实务》模拟试题-讲解.mp4.pdf",
-    "sha256": "f49ce6ebd4fa4cf547e94a7116dcba613f5e5e7c4c339d6c1001d109125a8c95",
-    "pages": 34,
-    "size_bytes": 2065759,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "26042482ddc3",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/01.第1讲-实务特训（一）.pdf",
-    "sha256": "d784a02c976ad1c2f15b4237114fa3d1bfd209b4f07caeccc323a3be7511aadb",
-    "pages": 6,
-    "size_bytes": 700334,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "008406cc1810",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/02.第2讲-实务特训（二）.pdf",
-    "sha256": "588aa9d8f2d14bac1aab4a4519d1345ad6e089167ff374e410979aecc4b4eaf6",
-    "pages": 6,
-    "size_bytes": 784207,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "1442b84b32db",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/03.第3讲-实务特训（三）.pdf",
-    "sha256": "8cfdc0c3a90e64b11e780aa99b2f158e5e3c468303d223fff3288af7875c9f88",
-    "pages": 6,
-    "size_bytes": 604737,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "614909145448",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/04.第4讲-实务特训（四）.pdf",
-    "sha256": "0a5abbeecd0d50c351078d2980f7a41bb03c7334105e2da1a4e0d3806cd3dd1b",
-    "pages": 2,
-    "size_bytes": 386147,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "90c57c3751bf",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/05.第5讲-实务特训（五）.pdf",
-    "sha256": "33ea9a8ad59cc65ea9f850a308c012213f78a22d471b679af226b2d0308ed3b3",
-    "pages": 2,
-    "size_bytes": 614467,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "d9d6af90a1a9",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/06.第6讲-实务特训（六）.pdf",
-    "sha256": "a05c917a768545d0c719a0eb3b4f22d447b6ca40fcecbf17991fbb5e670a01af",
-    "pages": 4,
-    "size_bytes": 622091,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "5cf6b47aa1b8",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/07.第7讲-实务特训（七）.pdf",
-    "sha256": "7faa2461b16d2d3f3bd5118b55c40f84f1779123a3c732608fbeea4edc4a480d",
-    "pages": 2,
-    "size_bytes": 331719,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "64ab69f6789c",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/08.第8讲-实务特训（八）.pdf",
-    "sha256": "b3cfef7c8a36e177666a08c79e104492d461b16fd7dd8bba3a9218e90b0a7e29",
-    "pages": 3,
-    "size_bytes": 457944,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "438881d941e8",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/09.第9讲-实务特训（九）.pdf",
-    "sha256": "ffe70c7efb7726c2307cd6b1014651b81f0c6b2efdfaf256050685def68fabd6",
-    "pages": 2,
-    "size_bytes": 441332,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "e4498a5d87d5",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/10.第10讲-实务特训（十）.pdf",
-    "sha256": "283e84f519451a68fed15e486869fc1d36009a5bfe1b896703b1984b38baf775",
-    "pages": 4,
-    "size_bytes": 616216,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "0af05c3c5fa2",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_01.第1讲-实务特训（一）.pdf",
-    "sha256": "08de23e2cba5e654a03f4761b60f760e6ed65bc8fdbb1e272ba0fd20985d70b9",
-    "pages": 6,
-    "size_bytes": 775566,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "2c65de7d83a9",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_02.第2讲-实务特训（二）.pdf",
-    "sha256": "3048597dc286f633bef47086ac42c4cc1c86ea5255a0f8993312b07db4d650f7",
-    "pages": 6,
-    "size_bytes": 865466,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "44fa56174c37",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_03.第3讲-实务特训（三）.pdf",
-    "sha256": "45f304514ddd6b66dc0e6d28ad13701130ba74bac6ade03284a90105b82aa6a4",
-    "pages": 6,
-    "size_bytes": 675735,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "ca78bca9b6af",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_04.第4讲-实务特训（四）.pdf",
-    "sha256": "4f18bde9dfcedf1537751fc837871bef4630cba5e2506dd5a9a98f4c3ca38e76",
-    "pages": 2,
-    "size_bytes": 416602,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "e51537456c62",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_05.第5讲-实务特训（五）.pdf",
-    "sha256": "ed21d33a97b35a03bf3d6dab0c31e64251de592c802c9fccec57bde4f29d6ec1",
-    "pages": 2,
-    "size_bytes": 642012,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "b89275db326b",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_06.第6讲-实务特训（六）.pdf",
-    "sha256": "8d51aefc9f0e35c98e1b8a76c8ac0299e3999f82ef316f7842ff103346403d37",
-    "pages": 4,
-    "size_bytes": 675244,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "3e5205d64b41",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_07.第7讲-实务特训（七）.pdf",
-    "sha256": "84485bf70fec62ee55110ae4110a14478701efa2d8c8e79425898132ee9e5e1b",
-    "pages": 2,
-    "size_bytes": 357108,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "d03dfd2b5d79",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_08.第8讲-实务特训（八）.pdf",
-    "sha256": "7d63cdcfbbb3ac87cd198f539b970bc73b9e8c5e842ab8f0e290c8feffc06474",
-    "pages": 3,
-    "size_bytes": 498791,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "ff46f9414ba9",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_09.第9讲-实务特训（九）.pdf",
-    "sha256": "db45476e5466eb8396ab4890c5a01df7904626c1282632ce2ac3972497a5ad0c",
-    "pages": 2,
-    "size_bytes": 472642,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "5b5e19c64bdc",
-    "relative_path": "03-2026年咨询实务-环球网校-专题特训班-张宝魁/讲义/Removed_10.第10讲-实务特训（十）.pdf",
-    "sha256": "0dbafe83c1d7e5fd39b154774d7516a9816636f06f549c00a8c0a9114f224183",
-    "pages": 4,
-    "size_bytes": 670720,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "e18da59acd80",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/01.第1讲-密训小灶（一）.pdf",
-    "sha256": "752c3a42a3b30ed85a95d8f32b97f6cbe8e3b924f47bf3c3bcf889cc84a7010b",
-    "pages": 19,
-    "size_bytes": 1341075,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "06028510fa95",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/04.第4讲-密训小灶（四）.pdf",
-    "sha256": "ca8617550446908b01fee5a38d2fdc3c68460dd7e3f103e6cb6cb36eba4bb05b",
-    "pages": 4,
-    "size_bytes": 485084,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "bdcd6edb9bd8",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/05.第5讲-密训小灶（五）.pdf",
-    "sha256": "5711e1610ad942e89e01fe2ab7e8a90e63a391856e25d0618d44ff0811862d24",
-    "pages": 8,
-    "size_bytes": 1006972,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "65441135df30",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/06.第6讲-密训小灶（六）.pdf",
-    "sha256": "8303121b786aea4b3cc2e0dd45b0550d5058742a02618547ebd876b3b35b64eb",
-    "pages": 6,
-    "size_bytes": 931334,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "7f81194fa681",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/08.第8讲-密训小灶（八）.pdf",
-    "sha256": "bded44fd8e47e01afb77a76422a0731cc879a3ba71cf135df1ffba9f763abe37",
-    "pages": 8,
-    "size_bytes": 1109169,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "a959bdb0fbef",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/09.第9讲-密训小灶（九）.pdf",
-    "sha256": "8dd8c7eb68cf0cbce07c9df96cd1c6aff72aca956216b2b825f780d30fd3d4b9",
-    "pages": 5,
-    "size_bytes": 729946,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "608d950454f5",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/10.第10讲-密训小灶（十）.pdf",
-    "sha256": "f9088faa5dae15ae796a87afe659375628d0051b494aa28fa34571abbefd51e3",
-    "pages": 3,
-    "size_bytes": 591880,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "9d1dbfbade02",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/11.第11讲-密训小灶（十一）.pdf",
-    "sha256": "681fb090e8992e9bc4b1ad91024c26ed10476a4c7e546d36d96e2708cd3bdc37",
-    "pages": 5,
-    "size_bytes": 706807,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "d4e27b7a1f31",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/12.第12讲-密训小灶（十二）.pdf",
-    "sha256": "5974621720a3b6655c78c5043d089cbd376071476d0a9de84d56d76f7b803425",
+    "id": "4990228bf912",
+    "relative_path": "01-2026年咨询实务-建工网校-备考白皮书/JG-咨询实务-备考白皮书.pdf",
+    "sha256": "a75434eee6a4bcfc6a24ecaa460b8f1cc25d4cb973d87a63443601e7d13c87ad",
     "pages": 9,
-    "size_bytes": 909281,
+    "size_bytes": 539143,
     "status": "pending",
     "error": null
   },
   {
-    "id": "0c16efe7685c",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/14.第14讲-密训小灶（十四）.pdf",
-    "sha256": "e2106e8d925d3c3d4d83489dff176204053fa901649422c7c2dc7e968c1b3ed5",
-    "pages": 9,
-    "size_bytes": 846804,
+    "id": "6d00f57ee4d8",
+    "relative_path": "02-2026年咨询实务-神秘人-5年真题+4套模拟【推荐】/2026年咨询实务-5年真题+4套押题模拟卷.pdf",
+    "sha256": "f83d84d66ce54aef35cef65dfe78f2da4a824df9064edb6a3089c829b2900baa",
+    "pages": 57,
+    "size_bytes": 36335930,
     "status": "pending",
     "error": null
   },
   {
-    "id": "6fc5a12aa723",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/16.第16讲-密训小灶（十六）.pdf",
-    "sha256": "2b5c5c058d10a37c5d245af32c73fea7ac6f921597ced85daf1f4f8a1126501f",
-    "pages": 4,
-    "size_bytes": 543989,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "83d5fb3e9dd0",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/2026年咨询方法与实务-第1-3讲-密训小灶.pdf",
-    "sha256": "c53655e084448fb1c03cba98d1f53194aef5da6ffb1b5fba9d66fc1c32704145",
-    "pages": 19,
-    "size_bytes": 1341075,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "0fca07dbcddc",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/2026年咨询方法与实务-第4讲-密训小灶（四）.pdf",
-    "sha256": "c20bd4d04499b5a5ee4dc1b3d57fd0e392573ebbe13d4246b99fed713aa91d5e",
-    "pages": 4,
-    "size_bytes": 485084,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "3b8264a4dd1b",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/2026年咨询方法与实务-第5讲-密训小灶（五）.pdf",
-    "sha256": "1b2bd8fd344ff07474aef999ce49c6d65035bdbbc989fed50da40423ebc80ccc",
-    "pages": 8,
-    "size_bytes": 1006972,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "30f9426f946c",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/2026年咨询方法与实务-第6-7讲-密训小灶（六、七）.pdf",
-    "sha256": "748098ac101ca879e8c5ee0d62c63e115b01c5809f42765f13b3811319ce3d36",
-    "pages": 6,
-    "size_bytes": 931334,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "98ec37435abb",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/2026年咨询方法与实务-第8讲-密训小灶（八）.pdf",
-    "sha256": "0e50c7768629678487450cbf8e6312cc8d336b7d6f6b4ec4e2ea8147f2c622d4",
-    "pages": 8,
-    "size_bytes": 1109169,
-    "status": "pending",
-    "error": null
-  },
-  {
-    "id": "a80b042ccc6d",
-    "relative_path": "04-2026年咨询实务-环球网校-密训小灶班-张宝魁【推荐】/2026年咨询方法与实务-第9讲-密训小灶（九）.pdf",
-    "sha256": "00637e7ff609dab445b41cd231766d87514d3eb342036829958dfaa481480903",
+    "id": "b2ed4602c462",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第一章　现代工程咨询方法.pdf",
+    "sha256": "a68ef0c35becd18be6ea4fb78565c75bae641f829dec8928cf34793826870813",
     "pages": 5,
-    "size_bytes": 729946,
+    "size_bytes": 328635,
     "status": "pending",
     "error": null
   },
   {
-    "id": "fbc27e316fea",
-    "relative_path": "05-2026年咨询实务-建工网校-冲刺串讲班-林轩/讲义/第一模块　现代咨询基本方法与理论总结.pdf",
-    "sha256": "4bef9390bd8c93631621ee4717b784b75f8229856abe20a64287eb06b8f942e5",
-    "pages": 22,
-    "size_bytes": 1463732,
+    "id": "4ca35d4c90f9",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第七章　现金流量分析.pdf",
+    "sha256": "6abfaa9aee5859b025487a6857e2df76010e80e4360cf63ede7794e15edb16ad",
+    "pages": 5,
+    "size_bytes": 365832,
     "status": "pending",
     "error": null
   },
   {
-    "id": "873e2fc4469f",
-    "relative_path": "05-2026年咨询实务-建工网校-冲刺串讲班-林轩/讲义/第二模块　投融资、财务与经济分析模块.pdf",
-    "sha256": "85fcff846fb48aa03c842610405484741d0ff9f2987cdf3fc7c620ee9bf60eaa",
-    "pages": 48,
-    "size_bytes": 2050463,
+    "id": "f24a8c64552d",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第三章　能源资源环境分析.pdf",
+    "sha256": "583db069aee47c7098a2c21a6f3c24f1258f563b31d696fae4da2e81bb462d5f",
+    "pages": 4,
+    "size_bytes": 319899,
     "status": "pending",
     "error": null
   },
   {
-    "id": "8922a903c318",
-    "relative_path": "06-2026年咨询实务-优路网校-考前集训班-刘美丽/2026咨询工程师《方法与实务》考前集训(0328)【下载打印】.pdf",
-    "sha256": "5203d0abb0e9d874b9767cc6552413212645ee5a928bb5e39b598fd983019f92",
-    "pages": 37,
-    "size_bytes": 3100226,
+    "id": "aa3dffca932a",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第九章　融资方案分析.pdf",
+    "sha256": "949618f08b6afe9a69944278aa538920812b78192d445295ac4cf83a17423341",
+    "pages": 8,
+    "size_bytes": 724053,
     "status": "pending",
     "error": null
   },
   {
-    "id": "1dd576f53c9d",
-    "relative_path": "06-2026年咨询实务-优路网校-考前集训班-刘美丽/2026咨询工程师《方法与实务》考前集训(0328)【在线观看】.pdf",
-    "sha256": "7e885400fb5d2551ce6fb92c033e853b764b73b15c2de92646fd3f9d66c89941",
-    "pages": 254,
-    "size_bytes": 6794752,
+    "id": "5f1cb0b08096",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第二章　规划咨询的主要理论与方法.pdf",
+    "sha256": "09ead90bd387a05a1379fc1ed9c441cd315e61b778feb5baf6e787506f9c5d8f",
+    "pages": 5,
+    "size_bytes": 508746,
     "status": "pending",
     "error": null
   },
   {
-    "id": "ea50899b3159",
-    "relative_path": "06-2026年咨询实务-优路网校-考前集训班-刘美丽/2026咨询工程师《方法与实务》考前集训-试卷【下载打印】.pdf",
-    "sha256": "c89f79f472e426e7b76248ad0f81ee463e72750b7d9b27d9700dcf96f04bcb5d",
-    "pages": 7,
-    "size_bytes": 329650,
+    "id": "a04c4975209f",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第五章　市场分析.pdf",
+    "sha256": "c9bfb1256bbd24fadd7be1fa2afd0875766019bfc7e09aee7e2b0610f93487d5",
+    "pages": 6,
+    "size_bytes": 438202,
     "status": "pending",
     "error": null
   },
   {
-    "id": "f3ee2daf883d",
-    "relative_path": "08-2026年咨询实务-环球网校-应试技巧班-张宝魁/01.应试技巧.pdf",
-    "sha256": "3c85f7ce60eafbff15c5be1e0c7faabcc07c26e396fde066e8cf6b46d18ccbcc",
+    "id": "8c9e305cd905",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第八章　工程项目投资估算.pdf",
+    "sha256": "58c3428a3aaf25f6f45e37ca57d0629005d6740738416a435819b3e81114b728",
     "pages": 10,
-    "size_bytes": 1022312,
+    "size_bytes": 556611,
     "status": "pending",
     "error": null
   },
   {
-    "id": "96ec2a68949a",
-    "relative_path": "11-2026年咨询实务-优路网校-考前点睛班-刘美丽/讲义/2026咨询教材精讲《方法与实务》点题讲义【在线版】.pdf",
-    "sha256": "0fc71bc19620f249c3339cae1f312ec6a11309e0ccf5b19cce9d081bbe8a94ba",
-    "pages": 124,
-    "size_bytes": 5248619,
+    "id": "9e4e58d44224",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第六章　重大项目谋划.pdf",
+    "sha256": "5d6aa3eaa8b120e51fe2e9544bc545fc1767c77d713177105d6a8fc18f214f0c",
+    "pages": 1,
+    "size_bytes": 204283,
     "status": "pending",
     "error": null
   },
   {
-    "id": "d61b6f62f9de",
-    "relative_path": "11-2026年咨询实务-优路网校-考前点睛班-刘美丽/讲义/2026咨询教材精讲《方法与实务》点题讲义【打印版】.pdf",
-    "sha256": "ded85007c61b5674190610ec41e1b6495a1d6ad9c3f8782dd5f6a791b084177b",
-    "pages": 31,
-    "size_bytes": 2307200,
+    "id": "e9a653ee03d0",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第十一章　工程项目经济分析.pdf",
+    "sha256": "ca76c90d0f3e67fc58dcafcb8a23a4efbd2fee71b1ca09151c420a2bfe5d0686",
+    "pages": 3,
+    "size_bytes": 325157,
     "status": "pending",
     "error": null
   },
   {
-    "id": "b2abd5f65e84",
-    "relative_path": "12-2026年咨询实务-环球网校-临考点睛卷-张宝奎/01.第1讲-临考点睛解析（一）.pdf",
-    "sha256": "3308e97ad1154b066b732cf793b0e33f257dcf4ced63123f699bcadb4835eafe",
-    "pages": 20,
-    "size_bytes": 1182068,
+    "id": "4583b94d5b6b",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第十章　工程项目财务分析.pdf",
+    "sha256": "a002b7320105d6a3c270daa09d567a2e9df8672cf7da860896fec8b7b71c95e4",
+    "pages": 5,
+    "size_bytes": 313364,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "dfa4e0681f8b",
+    "relative_path": "03-2026年咨询实务-建工网校-基础练习题/第四章　战略分析.pdf",
+    "sha256": "30abc81797867d832a3a7997687f0b6fba6f2fa67b6accc21738bc41f700e87b",
+    "pages": 7,
+    "size_bytes": 582705,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "5ce073baf6c6",
+    "relative_path": "04-2026年咨询实务-环球网校-思维导图/HQ-咨询实务-思维导图.pdf",
+    "sha256": "cee4e5a144205a039bbcb659626c581fad8b7567482ce1235190fe89ee62f614",
+    "pages": 6,
+    "size_bytes": 711524,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "2f37cd57c5e9",
+    "relative_path": "04-2026年咨询实务-神秘人-思维导图/CY-咨询实务-思维导图-川杨.pdf",
+    "sha256": "98b109b28660bebbc3e02e28519407aecf3a1dec3344d998b8ed1a67086e0888",
+    "pages": 14,
+    "size_bytes": 30511875,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "4dfc16ed53b4",
+    "relative_path": "05-2026年咨询实务-神秘人-思维导图/CY-咨询实务-思维导图-川杨.pdf",
+    "sha256": "98b109b28660bebbc3e02e28519407aecf3a1dec3344d998b8ed1a67086e0888",
+    "pages": 14,
+    "size_bytes": 30511875,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "da59ea14463d",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第一章　现代工程咨询方法.pdf",
+    "sha256": "f9bf01cebacdbcb151ebc3ecb82c1d0b6ec5ef30697f4c8a1ac492ee4b867a43",
+    "pages": 3,
+    "size_bytes": 257961,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "68cbeac9250d",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第七章　现金流量分析.pdf",
+    "sha256": "c100235ae006dd99833232a3ffd54c8619fd32b01d443a62e2dfaee125868530",
+    "pages": 4,
+    "size_bytes": 291625,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "298edcd280c4",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第三章　能源资源环境分析.pdf",
+    "sha256": "76125d4116e06786178293a5f1bee461ff102b47c4679b86ad0148a6b31bfeb3",
+    "pages": 2,
+    "size_bytes": 233874,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "76c106fd0cfa",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第九章　融资方案分析.pdf",
+    "sha256": "9c517c54c49283d4214b10b8ea3638862fe548f01477dca073f247a2f259fac0",
+    "pages": 6,
+    "size_bytes": 359405,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "73dddac6fc6f",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第二章　规划咨询的主要理论与方法.pdf",
+    "sha256": "428d177d4f1f6f12fd2d77b634eabe5169d3ac830b13226842e92ecee6f278b2",
+    "pages": 3,
+    "size_bytes": 299183,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "8d1105a29273",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第五章　市场分析.pdf",
+    "sha256": "9a8fa2f12a1d58255df3ff8d5a76e115a208c791636d6f5a79ba24d85db9afaf",
+    "pages": 4,
+    "size_bytes": 315285,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "765ac93aeaae",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第八章　工程项目投资估算.pdf",
+    "sha256": "f2f4c093929c73b502503bebdf244a05946012363372de706fe1f7716938920e",
+    "pages": 8,
+    "size_bytes": 340231,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "29ab5bea1bdf",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第六章　重大项目谋划.pdf",
+    "sha256": "b65a1bb549032c41bf7bcaca14c0bcdf41baefe25be03bc1d1c681364da404d4",
+    "pages": 1,
+    "size_bytes": 188866,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "5f7955e7b250",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第十一章　工程项目经济分析.pdf",
+    "sha256": "649ea211401a7b57fc321679f53b77833ead440125cd2408e1fdecab7510b7b6",
+    "pages": 3,
+    "size_bytes": 267057,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "4e72aa572b72",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第十章　工程项目财务分析.pdf",
+    "sha256": "aef9b68ba140d50e6b7942c697303d639bee003bfe7a46f77f0257964c3bb58f",
+    "pages": 6,
+    "size_bytes": 360838,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "5e848758d1c8",
+    "relative_path": "06-2026年咨询实务-建工网校-提高阶段练习题/第四章　战略分析.pdf",
+    "sha256": "ff2ed288434e4c9360d516766a5323cdbe798a26729d43c394b23b52dcef6420",
+    "pages": 6,
+    "size_bytes": 385256,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "cadbfbea4aa2",
+    "relative_path": "07-2026年咨询实务-川杨-口袋书+一本通+真题+默写本/CY-咨询实务-历年真题-16-25.pdf",
+    "sha256": "36286efc0b6ec6060f342e389f0443c1eaf0bb64439904989f270503cb61083a",
+    "pages": 127,
+    "size_bytes": 149095315,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "0a3a258226d0",
+    "relative_path": "07-2026年咨询实务-川杨-口袋书+一本通+真题+默写本/CY-咨询实务-口袋书-川杨.pdf",
+    "sha256": "e3ea63fa9f8ae312c1a97ed6c588c46c68c2f038704e97c1d0a0185e0b4bbb2a",
+    "pages": 100,
+    "size_bytes": 35236518,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "9f20d52f3919",
+    "relative_path": "07-2026年咨询实务-川杨-口袋书+一本通+真题+默写本/CY-咨询实务-考点重点默写本-川杨.pdf",
+    "sha256": "56ceeedb874696998417100301be5095195028e0fa9837de0600aadb2925801f",
+    "pages": 64,
+    "size_bytes": 108499084,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "1d66ad3574ec",
+    "relative_path": "07-2026年咨询实务-川杨-口袋书+一本通+真题+默写本/CY-咨询实务-重点一本通-川杨.pdf",
+    "sha256": "3b4f38a3ecba9e0e17a09673f8cd9c1b24bdcc220f26c085ba8734f7ea7807c2",
+    "pages": 216,
+    "size_bytes": 342944600,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "f7763b75c34b",
+    "relative_path": "08-2026年咨询实务-环球网校-精华考点+习题集/2026咨询工程师《现代咨询方法与实务》精华习题集.pdf",
+    "sha256": "1f298af0e4840fa7381b9747e104752373b68d6eca09a489234f54f58761d6d5",
+    "pages": 48,
+    "size_bytes": 4465199,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "3d20e5bf5ba6",
+    "relative_path": "08-2026年咨询实务-环球网校-精华考点+习题集/2026咨询工程师《现代咨询方法与实务》精华考点.pdf",
+    "sha256": "075f22417e5fa4ecf615ad75d940a27606a9f12b1ddc54b5cbb614044fde1f9d",
+    "pages": 48,
+    "size_bytes": 5341390,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "3539ccfa74f5",
+    "relative_path": "09-2026年咨询实务-环球网校-万人模考卷/HQ-咨询实务-万人模考卷.pdf",
+    "sha256": "a23f11a8080fe382971d8664a04c6a74f789b7c89752b5a17da9cfc6a281ce2e",
+    "pages": 15,
+    "size_bytes": 1253233,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "fd1439f8d15b",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/1.1现代工程咨询方法.pdf",
+    "sha256": "be5c3afecedeec6fc5b289fa9520fec39bf6d5c1b25947370696135d713ec270",
+    "pages": 1,
+    "size_bytes": 73109,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "6c9d103c0a0a",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/1.2信息数据与知识管理.pdf",
+    "sha256": "05ea398c87fba5459addecec8defeb1a9ae26cb09b35de4476f5122d014f694a",
+    "pages": 1,
+    "size_bytes": 54385,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "8dbdbceae5bc",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/10.1财务分析.pdf",
+    "sha256": "ad90c7b2de2a419cc2cd1ad90eaf76155d0bc693fea9b1915e10c5845c215bbe",
+    "pages": 1,
+    "size_bytes": 65168,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "fd1a2efb667f",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/10.2财务三能力分析.pdf",
+    "sha256": "91662f487668324ba9497e78cd036ce2365dc96d6b06ff5422e68562f6a2825c",
+    "pages": 1,
+    "size_bytes": 65072,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "b8575c054aa7",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/11.1经济分析.pdf",
+    "sha256": "84a9f491d6ad379f0aa0f5354231b9894fa1e02dcded4105f1de5ae651145c3a",
+    "pages": 1,
+    "size_bytes": 80186,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "3566ff89064a",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/11.2经济分析基本方法.pdf",
+    "sha256": "3e806c1105559368ce2e68513a22b95db6c1bfede135229e96a2d7eeac998428",
+    "pages": 1,
+    "size_bytes": 263799,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "938805430c6e",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/2.1区域发展基础理论.pdf",
+    "sha256": "9221461654ded5abebe0a3ac58a82dfb2e6864d5ead0beaa3a6bd2752b15ce1c",
+    "pages": 1,
+    "size_bytes": 70921,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "7cbea3d820bc",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/2.2区域发展阶段分析.pdf",
+    "sha256": "6ad94ad1e162b0a88e4422e11b5c40f5bfa2345cc8706a91e20e42e63d082025",
+    "pages": 1,
+    "size_bytes": 222283,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "ff234329f3e8",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/2.3规划预测与分析方法、工作流程.pdf",
+    "sha256": "d97c48eb8521945ee12190eacdc2290a93e7f523c4bbded04d2dd03faf32b926",
+    "pages": 1,
+    "size_bytes": 310941,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "50f57e016ef1",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/2.4规划评估方法.pdf",
+    "sha256": "3449b00bc6910dba8845c6e4bedce5a69050f10c965fa6d4463655d0b3649736",
+    "pages": 1,
+    "size_bytes": 121358,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "e6579bd8df16",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/3.1能耗与碳排放分析.pdf",
+    "sha256": "bbf0205013385978e1a880ebc22e805cca0a3d63b12d925eee926a31f48bfc63",
+    "pages": 1,
+    "size_bytes": 278204,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "35689c6d70dd",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/3.2资源环境承载力分析.pdf",
+    "sha256": "43115eade235226aebe90f2836991c074bcc33b8ef116a9efc72927ec7bdcd02",
+    "pages": 1,
+    "size_bytes": 306364,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "d7cfef9c0ff0",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/4.1市场战略基础.pdf",
+    "sha256": "e6c2979c7fb61cc0eb039e71eff8f9e82a111cf409603b9d180e688d4f6e5845",
+    "pages": 1,
+    "size_bytes": 55497,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "fb50af86d771",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/4.2竞争能力分析与价值链分析.pdf",
+    "sha256": "bb41074f844360683e9e853e5040029d85eafc6c57d91a6cf85ac8bef6e0c886",
+    "pages": 1,
+    "size_bytes": 145160,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "533c5f41afac",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/4.3投资组合分析与对标分析.pdf",
+    "sha256": "e6735ea0cdb6913f00ff04da640044c851f66785a64b19518987d7f40be2da49",
+    "pages": 1,
+    "size_bytes": 237635,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "114d9fdaa01f",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/5.1定性预测.pdf",
+    "sha256": "8722d8f9430c0afcd7d6a9be55e166255b62f3af8ea67cc3da1ad40c71abbd5a",
+    "pages": 1,
+    "size_bytes": 49277,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "514774383434",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/5.2定量预测.pdf",
+    "sha256": "007f4e89bb95c3f6c853f34cc83cf9d00171f6476927d6d90e66a0844b7f7bdf",
+    "pages": 1,
+    "size_bytes": 45273,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "7b880fdfe5ea",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/6.1重大项目谋划.pdf",
+    "sha256": "61091253f9871d7ebb658015f32dcadc2dc12e3a08a8e924e1cfe871c46b56e4",
+    "pages": 1,
+    "size_bytes": 140378,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "2f0bd0d49c73",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/7.1资金时间价值与等值换算.pdf",
+    "sha256": "c0d6f796bfae9e1302b7348ac4d83960c50fbd46decb454b0afd4c58f45826de",
+    "pages": 1,
+    "size_bytes": 145820,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "48675476a0f7",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/7.2现金流量分析指标及应用.pdf",
+    "sha256": "3f43601923211b1422a2a3bb9097522c84527f5fb668b6ad11f4d7305d108834",
+    "pages": 1,
+    "size_bytes": 59181,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "d7356f9379fa",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/8.1建设投资估算.pdf",
+    "sha256": "7382437dc69ebf54aed63464a6650406cff22b7424d7cfe8f8fc2854adc3d771",
+    "pages": 1,
+    "size_bytes": 76003,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "4530c3fcae80",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/8.2建设期融资费用与流动资金估算.pdf",
+    "sha256": "3528862af0493c77f7a7a76ed8dc0812dc4ee0990334b8b06121922ef52b6b20",
+    "pages": 1,
+    "size_bytes": 156170,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "cd72ce55af50",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/9.1资金成本与资金结构优化比选.pdf",
+    "sha256": "c7b1f63d410c13606814e770dfcd31b79a15cd6cfc693fe38b052a37949ce59f",
+    "pages": 1,
+    "size_bytes": 67552,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "c85b76a5415a",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/9.2资产证券化与企业并购.pdf",
+    "sha256": "52b851a5bd7b70be8d84b206ab35b82b3a7223f82dee97ce0e0c1bf21dff6aef",
+    "pages": 1,
+    "size_bytes": 323498,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "af5c575f4847",
+    "relative_path": "10-2026年咨询实务-建工网校-思维导图/9.3地方政府债券.pdf",
+    "sha256": "f8a5840cc3da433566ce521007a0a479a995822862b575907360ddc275ea6ff7",
+    "pages": 1,
+    "size_bytes": 82793,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "84b54296fec7",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第一章（带参考答案）.pdf",
+    "sha256": "d9b5f1b281d0c1c6858df03236daa55c8bd4341017f5f363eaa6fb289f924c48",
+    "pages": 5,
+    "size_bytes": 530966,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "574d84dbdc67",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第一章（空白卷）.pdf",
+    "sha256": "2a22b07781aebbef4b8294024d22d8789d2862d0c2b67ec4322c45d2bc10353f",
+    "pages": 6,
+    "size_bytes": 402738,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "551efb3d5d4e",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第七、八章（带参考答案）.pdf",
+    "sha256": "45d59ba15c84d0c4070009b67915b8c20e75f3e0e637e5d0da7e7ed44b37d410",
+    "pages": 6,
+    "size_bytes": 501465,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "016f1f23375c",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第七、八章（空白卷）.pdf",
+    "sha256": "f00d3c7ad8b12e6453d45522969641ab02f1157dc939d3a7d70c897fce293d05",
+    "pages": 6,
+    "size_bytes": 274702,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "1dc3fe6a62dc",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第三、四章（带参考答案）.pdf",
+    "sha256": "b23e7085a51260c1009bfcb029141cd8303e88c348e97a7326c027b2507850d2",
+    "pages": 7,
+    "size_bytes": 680390,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "955cc36caad1",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第三、四章（空白卷）.pdf",
+    "sha256": "58ddb757369ba46113577654aacdae88dc145a2c3249ffec67249fad89c69302",
+    "pages": 8,
+    "size_bytes": 451282,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "4a84c9e62199",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第九章（带参考答案）.pdf",
+    "sha256": "fa48f62ff23efba9ecaf2ad60ffaa9626a621b3f369eee5e8571d4064b6bd57c",
+    "pages": 6,
+    "size_bytes": 584234,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "d57e3717a24f",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第九章（空白卷）.pdf",
+    "sha256": "888d78071d61bf6c5031a06befe409e8a30d1f5035e9e3fc855d018f6f879e1f",
+    "pages": 8,
+    "size_bytes": 391624,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "2711bb75db65",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第二章（带参考答案）.pdf",
+    "sha256": "803438f777a04729b0a5db96abca16956ec037c259eca61cdef56f1de9045f8e",
+    "pages": 5,
+    "size_bytes": 457540,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "f88e9f403c81",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第二章（空白卷）.pdf",
+    "sha256": "e91065f1bf82b843c8e6c9a7d265417ab0b64f381d60074f4508198e603a155a",
+    "pages": 6,
+    "size_bytes": 311851,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "2eabc438bb90",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第五、六章（带参考答案）.pdf",
+    "sha256": "213a5d61f963207cd3f563d9777e2082c59194bd3f7a6e785c3d5aabec453fda",
+    "pages": 7,
+    "size_bytes": 674651,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "3a7c3f206b65",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第五、六章（空白卷）.pdf",
+    "sha256": "346236ff46668ee05e67d33c26fde40b1b4b092b58d1ec49cc87130547737725",
+    "pages": 8,
+    "size_bytes": 448404,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "47dda1e8243b",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第十、十一章（带参考答案）.pdf",
+    "sha256": "431940ce730071b02a89a871cd6cf03869ab73b8d96ef9ea7020a30e449be734",
+    "pages": 7,
+    "size_bytes": 614442,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "5e5e6e21d8ec",
+    "relative_path": "11-2026年咨询实务-川杨-模拟测试题/川杨学堂2026咨询工程师-实务测试题第十、十一章（空白卷）.pdf",
+    "sha256": "af4cca36049a633d51df940daf5944c4a1a8c11488efea8a28c51b27cf38ca6c",
+    "pages": 7,
+    "size_bytes": 341232,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "7282e6e70bd4",
+    "relative_path": "12-2026年咨询通用-天一网校-提分攻略/2026年《咨询工程师》提分攻略-主观题.pdf",
+    "sha256": "d48a65c10c40ff38e6ad59c8fec7616e411aa9beec96f5a5220a9e27512efdef",
+    "pages": 3,
+    "size_bytes": 261968,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "a2ade6b59999",
+    "relative_path": "12-2026年咨询通用-天一网校-提分攻略/2026年《咨询工程师》提分攻略-客观题.pdf",
+    "sha256": "0dd9214e1cb7c2d879631e3468a3e955d455d45916bd99500f4df06023caa1e9",
+    "pages": 3,
+    "size_bytes": 313575,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "1038c3b8b85e",
+    "relative_path": "13-2026年咨询实务-天一网校-黑马逆袭宝典/KL-咨询实务-黑马逆袭宝典.pdf",
+    "sha256": "c5a1d35ff3d272519c33d0f140508b024d075975e46f0fd1f0f12d3f7d2671a3",
+    "pages": 38,
+    "size_bytes": 2804815,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "9a54a702259f",
+    "relative_path": "14-2026年咨询实务-川杨-集训/川杨学堂2026咨询工程师-实务测试题-涉及其他三科（带参考答案）.pdf",
+    "sha256": "a2a76c5f6ce63c3ed4b38909f0cdbd7b7a9b0ab315303318f515b58a2e2365c5",
+    "pages": 5,
+    "size_bytes": 457783,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "e903ef3e41e0",
+    "relative_path": "14-2026年咨询实务-川杨-集训/川杨学堂2026咨询工程师-实务测试题-涉及其他三科（空白卷）.pdf",
+    "sha256": "0143dc67ca93d8e663526f1d186aa79103ff3513264331821393b7ddf05dbd9b",
+    "pages": 5,
+    "size_bytes": 269704,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "0729798f9cfa",
+    "relative_path": "14-2026年咨询实务-川杨-集训/川杨学堂2026咨询工程师-实务测试题-集训内容专题（财务、盈亏平衡、动态指标计算）（带参考答案）.pdf",
+    "sha256": "2203b0f94b495df39a645131038657a9dde14f1da922bd09949b7f5a8507f5e3",
+    "pages": 2,
+    "size_bytes": 291495,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "ba673f365d79",
+    "relative_path": "14-2026年咨询实务-川杨-集训/川杨学堂2026咨询工程师-实务测试题-集训内容专题（财务、盈亏平衡、动态指标计算）（空白卷）.pdf",
+    "sha256": "4a171c49c3f1ae90b14184121a1d18e9d79af95b27dab9cf815f0ea8a84ae7c5",
+    "pages": 4,
+    "size_bytes": 191349,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "bc7096e6e599",
+    "relative_path": "15-2026年咨询实务-川杨-全真模拟卷2套/CY-咨询实务-测试题-全真模拟考试三（带参考答案）.pdf",
+    "sha256": "7e3345da80243ff6920e949100c09dd25b4f7a7ebfbec5d0aab3e47e4bba164a",
+    "pages": 7,
+    "size_bytes": 515745,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "9a394b8b0455",
+    "relative_path": "15-2026年咨询实务-川杨-全真模拟卷2套/CY-咨询实务-测试题-全真模拟考试三（空白卷）.pdf",
+    "sha256": "6fa079a2b916780ff8eb20ebbb7fa8153538346f2eb250a3451a2329fbb7062f",
+    "pages": 8,
+    "size_bytes": 600974,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "3cf13b92a94e",
+    "relative_path": "15-2026年咨询实务-川杨-全真模拟卷2套/川杨学堂2026咨询工程师-实务测试题-全真模拟考试一（带参考答案）.pdf",
+    "sha256": "c1df9b9f5c3a5220b43e55cdcb114f95416f2745c66f9a4fe72ab76c4be03446",
+    "pages": 8,
+    "size_bytes": 721518,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "15da4486f25d",
+    "relative_path": "15-2026年咨询实务-川杨-全真模拟卷2套/川杨学堂2026咨询工程师-实务测试题-全真模拟考试一（空白卷）.pdf",
+    "sha256": "6daf60cac258fd65563c7b4b6de90c12255d6751a508f9b9bacfc63a980810e2",
+    "pages": 9,
+    "size_bytes": 557221,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "5d64f0500047",
+    "relative_path": "15-2026年咨询实务-川杨-全真模拟卷2套/川杨学堂2026咨询工程师-实务测试题-全真模拟考试二（带参考答案）.pdf",
+    "sha256": "307ed1c2e2e3a53a055120d85a0b399f3039cca7c0d0b0f345482210a8e4c00b",
+    "pages": 9,
+    "size_bytes": 752518,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "161b234249e9",
+    "relative_path": "15-2026年咨询实务-川杨-全真模拟卷2套/川杨学堂2026咨询工程师-实务测试题-全真模拟考试二（空白卷）.pdf",
+    "sha256": "146dc7b7eaa3c937327aa649292dc316b4a20178eba1dbc2dff58068712fce0b",
+    "pages": 10,
+    "size_bytes": 626723,
+    "status": "pending",
+    "error": null
+  },
+  {
+    "id": "a40bbc45d39a",
+    "relative_path": "16-2026年咨询实务-建工网校-简答背诵/JG-咨询实务-林轩简答背诵.pdf",
+    "sha256": "7c9cbffbdf683fc2ae8522735eb627d6af298644cf591f8c73c9c7e750f5dbda",
+    "pages": 32,
+    "size_bytes": 29540995,
     "status": "pending",
     "error": null
   }

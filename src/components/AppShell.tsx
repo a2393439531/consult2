@@ -7,8 +7,8 @@ export function AppShell({ children }: { children: React.ReactNode }) {
         <Link className="brand" to="/" aria-label="返回首页">
           <span className="brand-mark">实</span>
           <span>
-            <strong>2026 咨询实务题库</strong>
-            <small>现代咨询方法与实务 · 复习工作台</small>
+            <strong>2026 咨询实务·精华资料</strong>
+            <small>教材 · 真题 · 练习复习台</small>
           </span>
         </Link>
         <nav className="main-nav" aria-label="主导航">

@@ -16,6 +16,8 @@ from .parse import parse_document
 
 def _is_exam(source: SourceDocument) -> bool:
     path = source.relative_path.lower()
+    if "空白卷" in path:
+        return False
     return any(token in path for token in ("模考", "模拟", "真题", "试卷", "点睛卷", "揭秘卷"))
 
 
